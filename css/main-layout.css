@@ -82,3 +82,12 @@ img {
   text-align: center;
   display: table-cell;
   vertical-align: middle; }
+
+
+
+@media screen and (max-width:767px){
+.jumbotron {
+  height: 400px;}
+.bg {  height: 400px;}
+
+}/*end of media 767px*/
