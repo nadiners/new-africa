@@ -67,16 +67,16 @@ body{
 
 .when-on{
 	font-size: 32px;
-	border-bottom: 2px solid #CE7126;
-	color:  #CE7126;
+/*	border-bottom: 2px solid #CE7126;
+*/	color:  #CE7126;
 	padding-bottom: 5px;
-	margin-bottom: 50px;
-	margin-top: 90px;
+	margin-bottom: 70px;
+	margin-top: 100px;
 	text-align: center;
 	letter-spacing: .1em;
     text-transform: uppercase;
 }
-
+.main-box{padding-right: 70px;}
 .exhi-date{
 	background-color: #202428;
 	padding: 5px;
@@ -87,7 +87,7 @@ body{
 	margin-bottom: 10px;
 }
 .brief-description{
-	font-size: 22px; 	
+	font-size: 18px; 	
 }
 
 .read-more a{
@@ -102,6 +102,7 @@ body{
 .read-more{
 	margin-top: 20px;
 	font-weight: 500;
+	font-size: 14px;
 }
 .read-more a:hover{
 	border: 1px solid #CE7126;
@@ -196,22 +197,21 @@ margin-top: -10px;
 }
 
 .about-main{
-	padding: 12px;
+	padding: 18px;
 	line-height: 1.3em;
-	position: absolute;
 /*	width: 20%;*/
-	color: white;
-	background-color: #CE7126;
-	opacity: .8;
-	font-size: 20px;
+	color: black;
+	/*background-color: #CE7126;*/
+	font-size: 24px;
 	font-family: "skolar-sans-latin",sans-serif;
+	font-style: italic;
 	font-weight: 400;
+	margin-bottom: 80px;	
 }
+.about-main img{
+	margin-top:10px;
+	margin-left: -5px;}
 
-.description{
-	font-size: 20px;
-	background-color: white;
-}
 
 .landing-about{margin-top: 80px;
 	margin: auto;
@@ -223,6 +223,7 @@ margin-top: -10px;
 }
 
 .dark{
+
 	margin-right: -10;
 	margin-left: -10;
 	background-color: #202428;}
@@ -240,7 +241,7 @@ margin-top: -10px;
 	margin: auto;
 }
 .news{
-	margin-top: 20px;
+	margin-top: 50px;
 	background-color: white;
 }
 
@@ -259,7 +260,13 @@ footer{
 	margin-top: 100px;
 	}
 
-.address{font-size: 22px;}
+.address{
+	margin: auto;
+	max-width: 960px;
+	height: 100px;
+	font-size: 18px;
+	margin-bottom: 150px;
+}
 
 
 /* ==========================================================================
