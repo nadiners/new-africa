@@ -7,7 +7,7 @@ ul li{list-style: none;}
 
 body{
 	font-family: "ratio-display", sans-serif;
-	background-color: #f5f5fa;
+	background-color: #fffef8;
 	/*font-family: "Alef Hebrew"*/
 }
 
@@ -31,23 +31,30 @@ body{
 	text-align: center;
 }
 .navbar li a{
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-size: 14px;
 	text-align: center;
-	color: #CE7126;
+	color: #FF6200;
 }
 .navbar li a img{
 	margin-bottom: 10px;
-	width: 80%;
+	width: 65%;
+}
+
+.icon-exhib a img: hover{
+	background-image: url(images/icons/exhibitions-lava-hover.svg);
 }
 
 .languages li a{
-	background-color: #CE7126;
+	background-color: #FF6200;
 	color: white;
 	padding: 4px;
 }
 
 .languages li a:hover {
 	background-color: white;
-	color: #CE7126;	
+	color: #FF6200;	
 }
 
 .hebrew{
@@ -58,17 +65,19 @@ body{
 	transform: rotate(-2deg);}
 .categories{
 	font-size: 40px;
-	border-bottom: 2px solid #CE7126;
-	color:  #CE7126;
+	border-bottom: 2px solid #FF6200;
+	color:  #FF6200;
 	padding-bottom: 5px;
 	margin-bottom: 20px;
 	text-align: center;
 }
-
+.section-titles{
+	position: absolute;
+}
 .when-on{
 	font-size: 32px;
-/*	border-bottom: 2px solid #CE7126;
-*/	color:  #CE7126;
+/*	border-bottom: 2px solid #FF6200;
+*/	color:  #FF6200;
 	padding-bottom: 5px;
 	margin-bottom: 70px;
 	margin-top: 100px;
@@ -91,7 +100,7 @@ body{
 }
 
 .read-more a{
-	background-color: #CE7126;
+	background-color: #FF6200;
 	color: white;
 	text-decoration: none;
 	padding-top:7px;
@@ -105,22 +114,26 @@ body{
 	font-size: 14px;
 }
 .read-more a:hover{
-	border: 1px solid #CE7126;
+	border: 1px solid #FF6200;
 	background-color: white;
-	color: #CE7126; 
+	color: #FF6200; 
 }
 .title-exhib{
-	font-size:30px;
-	margin-bottom: 15px;
-	color: #CE7126;
-	font-weight: 900;
+	font-size: 20px;
+    margin-bottom: 15px;
+    color: #FF6200;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
 }
 
 .title-main-exhib{
-	font-size:40px;
-	margin-bottom: 15px;
-	color: #CE7126;
-	font-weight: 900;
+	font-size: 30px;
+    margin-bottom: 15px;
+    color: #FF6200;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
 }
 .categories-small, .categories-dark{
 	font-weight: 400;
@@ -132,7 +145,7 @@ body{
 }
 .categories-small span{
 	padding: 8px;
-	background-color: #f5f5fa;}
+	background-color: #fffef8;}
 .categories-dark span{
 	padding: 8px;
 	background-color: #202428;}	
@@ -152,7 +165,12 @@ margin-top: -10px;
 	height: 600px;
 }
 
-.logo img{width: 65%;}
+.logo{
+
+}
+.logo img{
+		float: right;
+		width: 55%;}
 
 .navline{
 	padding-top: 20px;
@@ -163,10 +181,8 @@ margin-top: -10px;
 	 text-align: center;
 }
 
-#exhibition-name{
-	font-size: 100px;
-	color: white;
-	text-shadow: 3px 3px rgba(0, 0, 0, 0.6);
+#exhibition-name img{
+	width: 90%;
 	}
 
 #current-date{
@@ -175,33 +191,30 @@ margin-top: -10px;
 	text-shadow: 2px 2px rgba(0, 0, 0, 0.6);
 }
 
-.see-all a{
-	background-color: #0089CE;
-	color: white;
-	text-decoration: none;
-	padding-top:7px;
-	padding-bottom: 7px;	
-	padding-left:20px;
-	padding-right: 20px; 
-}
+.see-all a{font-size: 16px;}
+.see-all a img{width: 2%;}
 .see-all{
-	float: right;
-	max-width: 960px;
-	margin-top: 50px;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	text-align: center;
+	margin: auto;
+	max-width: 80%;
+	margin-top: 70px;
 	font-weight: 500;
 }
-.see-all a:hover{
-	border: 1px solid #0089CE;
-	background-color: white;
-	color: #0089CE; 
-}
 
+.see-all a:hover{
+	color: #CE7126; 
+}
+.about-text{
+	max-width: 500px; 
+}
 .about-main{
 	padding: 18px;
 	line-height: 1.3em;
 /*	width: 20%;*/
 	color: black;
-	/*background-color: #CE7126;*/
+	/*background-color: #FF6200;*/
 	font-size: 24px;
 	font-family: "skolar-sans-latin",sans-serif;
 	font-style: italic;
@@ -215,10 +228,10 @@ margin-top: -10px;
 
 .landing-about{margin-top: 80px;
 	margin: auto;
-	max-width: 960px;
+	max-width: 80%;
 }
 .past-exhibitions{
-	max-width: 960px;
+	max-width: 80%;
 	margin:auto;
 }
 
@@ -229,7 +242,7 @@ margin-top: -10px;
 	background-color: #202428;}
 .past-events{
 	margin: auto;
-	max-width: 960px;
+	max-width: 80%;
 }
 .description-dark{
 	font-size: 20px;
@@ -237,7 +250,7 @@ margin-top: -10px;
 }
 
 .landing-news{
-	max-width: 960px;
+	max-width: 80%;
 	margin: auto;
 }
 .news{
@@ -248,7 +261,7 @@ margin-top: -10px;
 .news-title{
 	font-size: 24px;
 	font-weight: 500;
-	color: #CE7126;
+	color: #FF6200;
 	margin-bottom: 10px;
 }
 .news-date{color: #AAA8A8;
@@ -262,7 +275,7 @@ footer{
 
 .address{
 	margin: auto;
-	max-width: 960px;
+	max-width: 80%;
 	height: 100px;
 	font-size: 18px;
 	margin-bottom: 150px;
