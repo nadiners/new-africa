@@ -42,8 +42,9 @@ body{
 	width: 65%;
 }
 
+
 .icon-exhib a img: hover{
-	background-image: url(images/icons/exhibitions-lava-hover.svg);
+	background-image: url(../images/icons/exhibitions-lava-hover.svg);
 }
 
 .languages li a{
@@ -87,6 +88,8 @@ body{
 }
 .main-box{padding-right: 70px;}
 .exhi-date{
+	background-image: url("../images/icons/triangle-dark.svg");
+	background-repeat: repeat;
 	background-color: #202428;
 	padding: 5px;
 	text-align: center;
@@ -100,13 +103,16 @@ body{
 }
 
 .read-more a{
-	background-color: #FF6200;
-	color: white;
+	background-image: url("../images/icons/triangle.svg");
+	background-repeat: repeat;
 	text-decoration: none;
 	padding-top:7px;
 	padding-bottom: 7px;	
 	padding-left:20px;
 	padding-right: 20px; 
+	color: white;
+	background-color: rgba(255,98,0,.8); 
+	
 }
 .read-more{
 	margin-top: 20px;
@@ -115,16 +121,21 @@ body{
 }
 .read-more a:hover{
 	border: 1px solid #FF6200;
-	background-color: white;
-	color: #FF6200; 
+	color: #FF6200;
+	background-image: none;
+	background-color: #fffef8;
 }
+
+
 .title-exhib{
 	font-size: 20px;
     margin-bottom: 15px;
     color: #FF6200;
     font-weight: 900;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.08em;
+	line-height: 1.3em;
+
 }
 
 .title-main-exhib{
@@ -207,7 +218,7 @@ margin-top: -10px;
 	color: #CE7126; 
 }
 .about-text{
-	max-width: 500px; 
+
 }
 .about-main{
 	padding: 18px;
@@ -235,11 +246,6 @@ margin-top: -10px;
 	margin:auto;
 }
 
-.dark{
-
-	margin-right: -10;
-	margin-left: -10;
-	background-color: #202428;}
 .past-events{
 	margin: auto;
 	max-width: 80%;
