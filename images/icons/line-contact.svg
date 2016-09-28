@@ -3,1031 +3,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1507px" height="60.3px" viewBox="0 0 1507 60.3" enable-background="new 0 0 1507 60.3" xml:space="preserve">
-<g id="Layer_2">
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="7,23.9 7.3,29.2 32.4,29.3 32.1,24.5 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="28.3" y1="24.1" x2="28.3" y2="29.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="24.8" y1="24.2" x2="24.5" y2="28.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="20.8" y1="24.1" x2="21" y2="28.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="17.9" y1="24.2" x2="17.9" y2="28.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="14" y1="24.5" x2="14" y2="29.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="10.6" y1="24.5" x2="10.6" y2="28.7"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="6.9,42.3 7,37.3 32.6,37.2 32.5,42.3 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="27.8" y1="37.7" x2="28.1" y2="41.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="24.3" y1="37.5" x2="24.5" y2="41.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="21.1" y1="37.5" x2="21" y2="42.1"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M17.9,38"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="17.8" y1="42.1" x2="17.8" y2="37.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="13.8" y1="42.1" x2="13.7" y2="37.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="10.8" y1="42" x2="10.6" y2="37.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="38.4,23 38.8,28 64.1,27.8 63.9,23 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="42.4" y1="23" x2="42.4" y2="27.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="45.3" y1="23.3" x2="45.9" y2="27.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="49.9" y1="23" x2="49.8" y2="27.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="53" y1="23" x2="53" y2="27.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="56.2" y1="23" x2="56.3" y2="27.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="59.7" y1="23" x2="59.5" y2="28.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="38.4,41 38.4,36.2 63.7,35.9 63.8,41 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="59.5" y1="36" x2="59.7" y2="41"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="56" y1="36.3" x2="56.1" y2="40.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="52.6" y1="36.1" x2="52.6" y2="41.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="48.6" y1="36" x2="48.9" y2="40.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="45.4" y1="36.1" x2="45.4" y2="41"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="42.4" y1="36" x2="42.4" y2="41"/>
-	<circle cx="43.8" cy="30.6" r="1.3"/>
-	<ellipse cx="40.5" cy="33.3" rx="1.3" ry="1.2"/>
-	<ellipse cx="47" cy="33.4" rx="1.3" ry="1.3"/>
-	<ellipse cx="50.5" cy="30.5" rx="1.2" ry="1.2"/>
-	<ellipse cx="54.1" cy="33.4" rx="1.2" ry="1.3"/>
-	<ellipse cx="57.6" cy="30.8" rx="1.3" ry="1"/>
-	<ellipse cx="59.9" cy="33.4" rx="1.2" ry="1.1"/>
-	<ellipse cx="63.1" cy="30.9" rx="1.3" ry="1.1"/>
-	<circle cx="12.2" cy="31.6" r="1.4"/>
-	<circle cx="8.9" cy="35" r="1.3"/>
-	<circle cx="15.2" cy="34.8" r="1.2"/>
-	<ellipse cx="18.7" cy="32.2" rx="1.4" ry="1.3"/>
-	<ellipse cx="22.7" cy="34.5" rx="1.5" ry="1.3"/>
-	<ellipse cx="25.8" cy="32.1" rx="1.5" ry="1.2"/>
-	<circle cx="28.4" cy="34.8" r="1.2"/>
-	<ellipse cx="31.8" cy="32.3" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="70.2,22.9 70.5,28.1 95.6,28.3 95.3,23.5 
-			"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="91.5" y1="23" x2="91.5" y2="28.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="88" y1="23.2" x2="87.7" y2="27.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="84" y1="23" x2="84.2" y2="27.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="81.1" y1="23.2" x2="81.1" y2="27.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="77.2" y1="23.5" x2="77.2" y2="28.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="73.8" y1="23.5" x2="73.8" y2="27.7"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="70.1,41.2 70.2,36.3 95.8,36.1 95.7,41.2 
-			"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="91" y1="36.7" x2="91.3" y2="40.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="87.5" y1="36.4" x2="87.7" y2="40.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="84.3" y1="36.4" x2="84.2" y2="41.1"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M81.1,37"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="81" y1="41.1" x2="81" y2="36.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="77.1" y1="41.1" x2="76.9" y2="36.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="74.1" y1="41" x2="73.8" y2="36.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="101.9,22 102.3,26.9 127.6,26.7 127.4,22 
-			"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="105.9" y1="22" x2="105.9" y2="26.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="108.8" y1="22.3" x2="109.4" y2="26.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="113.4" y1="22" x2="113.3" y2="26.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="116.5" y1="22" x2="116.5" y2="26.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="119.7" y1="22" x2="119.8" y2="26.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="123.2" y1="22" x2="123.1" y2="27.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="101.9,39.9 101.9,35.2 127.2,34.9 
-		127.3,39.9 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="123.1" y1="35" x2="123.2" y2="39.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="119.6" y1="35.3" x2="119.6" y2="39.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="116.1" y1="35.1" x2="116.1" y2="40.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="112.1" y1="35" x2="112.4" y2="39.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="108.9" y1="35.1" x2="108.9" y2="39.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="105.9" y1="35" x2="105.9" y2="39.9"/>
-	<circle cx="107.3" cy="29.6" r="1.3"/>
-	<ellipse cx="104" cy="32.3" rx="1.3" ry="1.2"/>
-	<ellipse cx="110.5" cy="32.4" rx="1.3" ry="1.3"/>
-	<ellipse cx="114" cy="29.5" rx="1.2" ry="1.2"/>
-	<ellipse cx="117.6" cy="32.4" rx="1.2" ry="1.3"/>
-	<ellipse cx="121.2" cy="29.7" rx="1.3" ry="1"/>
-	<ellipse cx="123.4" cy="32.4" rx="1.2" ry="1.1"/>
-	<ellipse cx="126.6" cy="29.9" rx="1.3" ry="1.1"/>
-	<circle cx="75.4" cy="30.6" r="1.4"/>
-	<circle cx="72.1" cy="34" r="1.3"/>
-	<circle cx="78.4" cy="33.8" r="1.2"/>
-	<ellipse cx="81.9" cy="31.2" rx="1.4" ry="1.3"/>
-	<ellipse cx="85.9" cy="33.5" rx="1.5" ry="1.3"/>
-	<ellipse cx="89" cy="31.1" rx="1.5" ry="1.2"/>
-	<circle cx="91.6" cy="33.8" r="1.2"/>
-	<ellipse cx="95" cy="31.3" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="134,23.2 134.3,28.4 159.4,28.6 
-		159.2,23.8 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="155.3" y1="23.3" x2="155.3" y2="28.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="151.8" y1="23.5" x2="151.5" y2="28.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="147.9" y1="23.3" x2="148" y2="27.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="145" y1="23.5" x2="145" y2="28.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="141" y1="23.8" x2="141" y2="28.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="137.7" y1="23.8" x2="137.7" y2="28"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="133.9,41.6 134,36.6 159.7,36.5 
-		159.5,41.6 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="154.9" y1="37" x2="155.2" y2="41.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="151.4" y1="36.7" x2="151.5" y2="41.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="148.2" y1="36.7" x2="148" y2="41.4"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M145,37.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="144.8" y1="41.4" x2="144.8" y2="36.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="140.9" y1="41.4" x2="140.7" y2="36.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="137.9" y1="41.3" x2="137.7" y2="36.5"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="165.8,22.3 166.2,27.2 191.4,27 
-		191.2,22.3 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="169.7" y1="22.3" x2="169.7" y2="26.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="172.6" y1="22.6" x2="173.2" y2="27.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="177.3" y1="22.3" x2="177.1" y2="27"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="180.3" y1="22.3" x2="180.3" y2="26.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="183.5" y1="22.3" x2="183.7" y2="27"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="187" y1="22.3" x2="186.9" y2="27.4"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="165.8,40.2 165.8,35.5 191,35.2 
-		191.1,40.2 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="186.9" y1="35.3" x2="187" y2="40.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="183.4" y1="35.6" x2="183.5" y2="40"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="179.9" y1="35.4" x2="179.9" y2="40.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="176" y1="35.3" x2="176.3" y2="40.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="172.8" y1="35.4" x2="172.8" y2="40.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="169.7" y1="35.3" x2="169.7" y2="40.2"/>
-	<circle cx="171.2" cy="29.9" r="1.3"/>
-	<ellipse cx="167.9" cy="32.6" rx="1.3" ry="1.2"/>
-	<ellipse cx="174.3" cy="32.7" rx="1.3" ry="1.3"/>
-	<ellipse cx="177.9" cy="29.8" rx="1.2" ry="1.2"/>
-	<ellipse cx="181.4" cy="32.7" rx="1.2" ry="1.3"/>
-	<ellipse cx="185" cy="30" rx="1.3" ry="1"/>
-	<ellipse cx="187.3" cy="32.7" rx="1.2" ry="1.1"/>
-	<ellipse cx="190.4" cy="30.2" rx="1.3" ry="1.1"/>
-	<circle cx="139.3" cy="30.9" r="1.4"/>
-	<circle cx="135.9" cy="34.3" r="1.3"/>
-	<circle cx="142.3" cy="34.1" r="1.2"/>
-	<ellipse cx="145.8" cy="31.5" rx="1.4" ry="1.3"/>
-	<ellipse cx="149.8" cy="33.8" rx="1.5" ry="1.3"/>
-	<ellipse cx="152.8" cy="31.4" rx="1.5" ry="1.2"/>
-	<circle cx="155.5" cy="34.1" r="1.2"/>
-	<ellipse cx="158.8" cy="31.6" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="197.9,22.8 198.2,28.1 223.3,28.2 
-		223,23.4 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="219.2" y1="23" x2="219.2" y2="28.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="215.7" y1="23.1" x2="215.4" y2="27.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="211.7" y1="23" x2="211.9" y2="27.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="208.8" y1="23.1" x2="208.8" y2="27.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="204.9" y1="23.4" x2="204.9" y2="28.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="201.5" y1="23.4" x2="201.5" y2="27.6"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="197.7,41.2 197.9,36.2 223.5,36.1 
-		223.4,41.2 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="218.7" y1="36.7" x2="219" y2="40.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="215.2" y1="36.4" x2="215.4" y2="40.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="212" y1="36.4" x2="211.9" y2="41"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M208.8,36.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="208.7" y1="41" x2="208.7" y2="36.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="204.7" y1="41" x2="204.6" y2="36.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="201.7" y1="40.9" x2="201.5" y2="36.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="229.6,24 230,29 255.2,28.8 255.1,24 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="233.5" y1="24" x2="233.5" y2="28.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="236.5" y1="24.3" x2="237" y2="28.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="241.1" y1="24" x2="241" y2="28.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="244.2" y1="24" x2="244.2" y2="28.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="247.4" y1="24" x2="247.5" y2="28.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="250.9" y1="24" x2="250.7" y2="29.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="229.6,42 229.6,37.2 254.9,36.9 255,42 	
-		"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="250.7" y1="37" x2="250.9" y2="42"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="247.2" y1="37.3" x2="247.3" y2="41.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="243.7" y1="37.1" x2="243.7" y2="42.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="239.8" y1="37" x2="240.1" y2="41.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="236.6" y1="37.1" x2="236.6" y2="42"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="233.5" y1="37" x2="233.5" y2="42"/>
-	<circle cx="235" cy="31.6" r="1.3"/>
-	<ellipse cx="231.7" cy="34.3" rx="1.3" ry="1.2"/>
-	<ellipse cx="238.2" cy="34.4" rx="1.3" ry="1.3"/>
-	<ellipse cx="241.7" cy="31.5" rx="1.2" ry="1.2"/>
-	<ellipse cx="245.3" cy="34.4" rx="1.2" ry="1.3"/>
-	<ellipse cx="248.8" cy="31.8" rx="1.3" ry="1"/>
-	<ellipse cx="251.1" cy="34.4" rx="1.2" ry="1.1"/>
-	<ellipse cx="254.3" cy="31.9" rx="1.3" ry="1.1"/>
-	<circle cx="203.1" cy="30.5" r="1.4"/>
-	<circle cx="199.8" cy="33.9" r="1.3"/>
-	<circle cx="206.1" cy="33.7" r="1.2"/>
-	<ellipse cx="209.6" cy="31.1" rx="1.4" ry="1.3"/>
-	<ellipse cx="213.6" cy="33.4" rx="1.5" ry="1.3"/>
-	<ellipse cx="216.7" cy="31" rx="1.5" ry="1.2"/>
-	<circle cx="219.3" cy="33.7" r="1.2"/>
-	<ellipse cx="222.6" cy="31.2" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="261.7,24.5 262,29.8 287.1,29.9 
-		286.8,25.1 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="283" y1="24.7" x2="283" y2="29.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="279.5" y1="24.8" x2="279.2" y2="29.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="275.6" y1="24.7" x2="275.7" y2="29.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="272.7" y1="24.8" x2="272.7" y2="29.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="268.7" y1="25.1" x2="268.7" y2="29.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="265.4" y1="25.1" x2="265.4" y2="29.3"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="261.6,42.9 261.7,37.9 287.4,37.8 
-		287.2,42.9 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="282.6" y1="38.4" x2="282.8" y2="42.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="279.1" y1="38.1" x2="279.2" y2="42.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="275.9" y1="38.1" x2="275.7" y2="42.7"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M272.7,38.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="272.5" y1="42.7" x2="272.5" y2="38.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="268.6" y1="42.7" x2="268.4" y2="38.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="265.6" y1="42.6" x2="265.4" y2="37.8"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="293.5,23.7 293.8,28.6 319.1,28.4 
-		318.9,23.7 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="297.4" y1="23.7" x2="297.4" y2="28.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="300.3" y1="23.9" x2="300.9" y2="28.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="305" y1="23.7" x2="304.8" y2="28.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="308" y1="23.7" x2="308" y2="27.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="311.2" y1="23.7" x2="311.4" y2="28.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="314.7" y1="23.7" x2="314.6" y2="28.7"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="293.5,41.6 293.5,36.8 318.7,36.5 
-		318.8,41.6 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="314.6" y1="36.6" x2="314.7" y2="41.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="311.1" y1="36.9" x2="311.1" y2="41.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="307.6" y1="36.8" x2="307.6" y2="41.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="303.7" y1="36.6" x2="303.9" y2="41.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="300.4" y1="36.8" x2="300.4" y2="41.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="297.4" y1="36.6" x2="297.4" y2="41.6"/>
-	<circle cx="298.8" cy="31.2" r="1.3"/>
-	<ellipse cx="295.6" cy="33.9" rx="1.3" ry="1.2"/>
-	<ellipse cx="302" cy="34" rx="1.3" ry="1.3"/>
-	<ellipse cx="305.5" cy="31.2" rx="1.2" ry="1.2"/>
-	<ellipse cx="309.1" cy="34" rx="1.2" ry="1.3"/>
-	<ellipse cx="312.7" cy="31.4" rx="1.3" ry="1"/>
-	<ellipse cx="315" cy="34" rx="1.2" ry="1.1"/>
-	<ellipse cx="318.1" cy="31.5" rx="1.3" ry="1.1"/>
-	<circle cx="267" cy="32.2" r="1.4"/>
-	<circle cx="263.6" cy="35.6" r="1.3"/>
-	<circle cx="270" cy="35.4" r="1.2"/>
-	<ellipse cx="273.5" cy="32.8" rx="1.4" ry="1.3"/>
-	<ellipse cx="277.5" cy="35.2" rx="1.5" ry="1.3"/>
-	<ellipse cx="280.5" cy="32.8" rx="1.5" ry="1.2"/>
-	<circle cx="283.1" cy="35.4" r="1.2"/>
-	<ellipse cx="286.5" cy="32.9" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="325.3,24.1 325.6,29.4 350.7,29.5 
-		350.4,24.7 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="346.5" y1="24.3" x2="346.5" y2="29.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="343" y1="24.4" x2="342.7" y2="29.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="339.1" y1="24.3" x2="339.3" y2="28.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="336.2" y1="24.4" x2="336.2" y2="29.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="332.3" y1="24.7" x2="332.3" y2="29.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="328.9" y1="24.7" x2="328.9" y2="28.9"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="325.1,42.5 325.3,37.5 350.9,37.4 
-		350.8,42.5 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="346.1" y1="38" x2="346.4" y2="42.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="342.6" y1="37.7" x2="342.7" y2="42.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="339.4" y1="37.7" x2="339.3" y2="42.3"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M336.2,38.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="336" y1="42.3" x2="336" y2="37.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="332.1" y1="42.3" x2="332" y2="37.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="329.1" y1="42.2" x2="328.9" y2="37.4"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="357,25 357.4,29.9 382.6,29.7 382.4,25 	
-		"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="360.9" y1="25" x2="360.9" y2="29.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="363.8" y1="25.3" x2="364.4" y2="29.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="368.5" y1="25" x2="368.4" y2="29.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="371.6" y1="25" x2="371.6" y2="29.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="374.8" y1="25" x2="374.9" y2="29.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="378.3" y1="25" x2="378.1" y2="30.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="357,42.9 357,38.2 382.3,37.9 382.3,42.9 
-			"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="378.1" y1="38" x2="378.3" y2="42.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="374.6" y1="38.3" x2="374.7" y2="42.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="371.1" y1="38.1" x2="371.1" y2="43.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="367.2" y1="38" x2="367.5" y2="42.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="364" y1="38.1" x2="364" y2="42.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="360.9" y1="38" x2="360.9" y2="42.9"/>
-	<circle cx="362.4" cy="32.6" r="1.3"/>
-	<ellipse cx="359.1" cy="35.3" rx="1.3" ry="1.2"/>
-	<ellipse cx="365.5" cy="35.4" rx="1.3" ry="1.3"/>
-	<ellipse cx="369.1" cy="32.5" rx="1.2" ry="1.2"/>
-	<ellipse cx="372.7" cy="35.4" rx="1.2" ry="1.3"/>
-	<ellipse cx="376.2" cy="32.7" rx="1.3" ry="1"/>
-	<ellipse cx="378.5" cy="35.4" rx="1.2" ry="1.1"/>
-	<ellipse cx="381.6" cy="32.9" rx="1.3" ry="1.1"/>
-	<circle cx="330.5" cy="31.8" r="1.4"/>
-	<circle cx="327.2" cy="35.2" r="1.3"/>
-	<circle cx="333.5" cy="35" r="1.2"/>
-	<ellipse cx="337" cy="32.4" rx="1.4" ry="1.3"/>
-	<ellipse cx="341" cy="34.8" rx="1.5" ry="1.3"/>
-	<ellipse cx="344.1" cy="32.4" rx="1.5" ry="1.2"/>
-	<circle cx="346.7" cy="35.1" r="1.2"/>
-	<ellipse cx="350" cy="32.5" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="388.5,25.5 388.8,30.7 413.9,30.9 
-		413.6,26.1 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="409.8" y1="25.6" x2="409.8" y2="30.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="406.3" y1="25.8" x2="406" y2="30.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="402.3" y1="25.6" x2="402.5" y2="30.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="399.4" y1="25.8" x2="399.4" y2="30.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="395.5" y1="26.1" x2="395.5" y2="30.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="392.2" y1="26.1" x2="392.2" y2="30.3"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="388.4,43.8 388.5,38.9 414.1,38.7 
-		414,43.8 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="409.3" y1="39.3" x2="409.6" y2="43.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="405.8" y1="39" x2="406" y2="43.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="402.6" y1="39" x2="402.5" y2="43.7"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M399.4,39.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="399.3" y1="43.7" x2="399.3" y2="39.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="395.4" y1="43.7" x2="395.2" y2="39"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="392.4" y1="43.6" x2="392.2" y2="38.7"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="421.1,24.6 421.5,29.5 446.8,29.3 
-		446.6,24.6 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="425.1" y1="24.6" x2="425.1" y2="29.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="428" y1="24.9" x2="428.6" y2="29.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="432.6" y1="24.6" x2="432.5" y2="29.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="435.7" y1="24.6" x2="435.7" y2="28.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="438.9" y1="24.6" x2="439.1" y2="29.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="442.4" y1="24.6" x2="442.3" y2="29.7"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="421.1,42.5 421.1,37.8 446.4,37.5 
-		446.5,42.5 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="442.3" y1="37.6" x2="442.4" y2="42.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="438.8" y1="37.9" x2="438.8" y2="42.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="435.3" y1="37.7" x2="435.3" y2="42.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="431.3" y1="37.6" x2="431.6" y2="42.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="428.1" y1="37.7" x2="428.1" y2="42.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="425.1" y1="37.6" x2="425.1" y2="42.5"/>
-	<circle cx="426.5" cy="32.2" r="1.3"/>
-	<ellipse cx="423.2" cy="34.9" rx="1.3" ry="1.2"/>
-	<ellipse cx="429.7" cy="35" rx="1.3" ry="1.3"/>
-	<ellipse cx="433.2" cy="32.1" rx="1.2" ry="1.2"/>
-	<ellipse cx="436.8" cy="35" rx="1.2" ry="1.3"/>
-	<ellipse cx="440.4" cy="32.3" rx="1.3" ry="1"/>
-	<ellipse cx="442.7" cy="35" rx="1.2" ry="1.1"/>
-	<ellipse cx="445.8" cy="32.5" rx="1.3" ry="1.1"/>
-	<circle cx="393.7" cy="33.2" r="1.4"/>
-	<circle cx="390.4" cy="36.6" r="1.3"/>
-	<circle cx="396.7" cy="36.4" r="1.2"/>
-	<ellipse cx="400.2" cy="33.8" rx="1.4" ry="1.3"/>
-	<ellipse cx="404.2" cy="36.1" rx="1.5" ry="1.3"/>
-	<ellipse cx="407.3" cy="33.7" rx="1.5" ry="1.2"/>
-	<circle cx="409.9" cy="36.4" r="1.2"/>
-	<ellipse cx="413.3" cy="33.9" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="453,25.1 453.2,30.4 478.4,30.5 
-		478.1,25.7 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="474.2" y1="25.3" x2="474.2" y2="30.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="470.7" y1="25.4" x2="470.4" y2="30.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="466.8" y1="25.3" x2="466.9" y2="29.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="463.9" y1="25.4" x2="463.9" y2="30.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="459.9" y1="25.7" x2="459.9" y2="30.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="456.6" y1="25.7" x2="456.6" y2="29.9"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="452.8,43.5 453,38.5 478.6,38.4 
-		478.4,43.5 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="473.8" y1="38.9" x2="474.1" y2="43.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="470.3" y1="38.7" x2="470.4" y2="43.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="467.1" y1="38.7" x2="466.9" y2="43.3"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M463.9,39.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="463.7" y1="43.3" x2="463.7" y2="38.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="459.8" y1="43.3" x2="459.7" y2="38.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="456.8" y1="43.2" x2="456.6" y2="38.4"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="484.7,24.2 485.1,29.1 510.3,29 
-		510.1,24.2 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="488.6" y1="24.2" x2="488.6" y2="28.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="491.5" y1="24.5" x2="492.1" y2="29"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="496.2" y1="24.2" x2="496" y2="28.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="499.2" y1="24.2" x2="499.2" y2="28.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="502.4" y1="24.2" x2="502.6" y2="28.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="505.9" y1="24.2" x2="505.8" y2="29.3"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="484.7,42.1 484.7,37.4 509.9,37.1 
-		510,42.1 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="505.8" y1="37.2" x2="505.9" y2="42.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="502.3" y1="37.5" x2="502.4" y2="41.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="498.8" y1="37.3" x2="498.8" y2="42.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="494.9" y1="37.2" x2="495.2" y2="42"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="491.7" y1="37.3" x2="491.7" y2="42.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="488.6" y1="37.2" x2="488.6" y2="42.1"/>
-	<circle cx="490.1" cy="31.8" r="1.3"/>
-	<ellipse cx="486.8" cy="34.5" rx="1.3" ry="1.2"/>
-	<ellipse cx="493.2" cy="34.6" rx="1.3" ry="1.3"/>
-	<ellipse cx="496.8" cy="31.7" rx="1.2" ry="1.2"/>
-	<ellipse cx="500.4" cy="34.6" rx="1.2" ry="1.3"/>
-	<ellipse cx="503.9" cy="32" rx="1.3" ry="1"/>
-	<ellipse cx="506.2" cy="34.6" rx="1.2" ry="1.1"/>
-	<ellipse cx="509.3" cy="32.1" rx="1.3" ry="1.1"/>
-	<circle cx="458.2" cy="32.8" r="1.4"/>
-	<circle cx="454.8" cy="36.2" r="1.3"/>
-	<circle cx="461.2" cy="36" r="1.2"/>
-	<ellipse cx="464.7" cy="33.4" rx="1.4" ry="1.3"/>
-	<ellipse cx="468.7" cy="35.7" rx="1.5" ry="1.3"/>
-	<ellipse cx="471.7" cy="33.3" rx="1.5" ry="1.2"/>
-	<circle cx="474.4" cy="36" r="1.2"/>
-	<ellipse cx="477.7" cy="33.5" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="517.7,24.7 518,30 543.1,30.1 542.8,25.3 
-			"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="539" y1="24.9" x2="539" y2="30.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="535.5" y1="25" x2="535.2" y2="29.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="531.5" y1="24.9" x2="531.7" y2="29.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="528.6" y1="25" x2="528.6" y2="29.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="524.7" y1="25.3" x2="524.7" y2="30"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="521.3" y1="25.3" x2="521.3" y2="29.5"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="517.5,43.1 517.7,38.1 543.3,38 
-		543.2,43.1 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="538.5" y1="38.6" x2="538.8" y2="42.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="535" y1="38.3" x2="535.2" y2="42.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="531.8" y1="38.3" x2="531.7" y2="42.9"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M528.6,38.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="528.5" y1="42.9" x2="528.5" y2="38.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="524.5" y1="42.9" x2="524.4" y2="38.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="521.5" y1="42.8" x2="521.3" y2="38"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="550.3,23.8 550.7,28.8 576,28.6 
-		575.8,23.8 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="554.3" y1="23.8" x2="554.3" y2="28.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="557.2" y1="24.1" x2="557.7" y2="28.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="561.8" y1="23.8" x2="561.7" y2="28.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="564.9" y1="23.8" x2="564.9" y2="28.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="568.1" y1="23.8" x2="568.2" y2="28.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="571.6" y1="23.8" x2="571.4" y2="28.9"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="550.3,41.8 550.3,37 575.6,36.7 
-		575.7,41.8 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="571.4" y1="36.8" x2="571.6" y2="41.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="567.9" y1="37.1" x2="568" y2="41.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="564.4" y1="37" x2="564.4" y2="42.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="560.5" y1="36.8" x2="560.8" y2="41.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="557.3" y1="37" x2="557.3" y2="41.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="554.3" y1="36.8" x2="554.3" y2="41.8"/>
-	<circle cx="555.7" cy="31.4" r="1.3"/>
-	<ellipse cx="552.4" cy="34.1" rx="1.3" ry="1.2"/>
-	<ellipse cx="558.9" cy="34.2" rx="1.3" ry="1.3"/>
-	<ellipse cx="562.4" cy="31.3" rx="1.2" ry="1.2"/>
-	<ellipse cx="566" cy="34.2" rx="1.2" ry="1.3"/>
-	<ellipse cx="569.5" cy="31.6" rx="1.3" ry="1"/>
-	<ellipse cx="571.8" cy="34.2" rx="1.2" ry="1.1"/>
-	<ellipse cx="575" cy="31.7" rx="1.3" ry="1.1"/>
-	<circle cx="522.9" cy="32.4" r="1.4"/>
-	<circle cx="519.6" cy="35.8" r="1.3"/>
-	<circle cx="525.9" cy="35.6" r="1.2"/>
-	<ellipse cx="529.4" cy="33" rx="1.4" ry="1.3"/>
-	<ellipse cx="533.4" cy="35.4" rx="1.5" ry="1.3"/>
-	<ellipse cx="536.5" cy="32.9" rx="1.5" ry="1.2"/>
-	<circle cx="539.1" cy="35.6" r="1.2"/>
-	<ellipse cx="542.5" cy="33.1" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="583.3,24.3 583.6,29.6 608.7,29.7 
-		608.4,24.9 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="604.6" y1="24.5" x2="604.6" y2="29.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="601.1" y1="24.6" x2="600.8" y2="29.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="597.2" y1="24.5" x2="597.3" y2="29"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="594.3" y1="24.6" x2="594.3" y2="29.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="590.3" y1="24.9" x2="590.3" y2="29.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="587" y1="24.9" x2="587" y2="29.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="583.2,42.7 583.3,37.7 609,37.6 
-		608.8,42.7 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="604.2" y1="38.2" x2="604.5" y2="42.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="600.7" y1="37.9" x2="600.8" y2="42.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="597.5" y1="37.9" x2="597.3" y2="42.5"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M594.3,38.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="594.1" y1="42.5" x2="594.1" y2="38"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="590.2" y1="42.5" x2="590" y2="37.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="587.2" y1="42.4" x2="587" y2="37.6"/>
-	<circle cx="588.6" cy="32" r="1.4"/>
-	<circle cx="585.2" cy="35.4" r="1.3"/>
-	<circle cx="591.6" cy="35.2" r="1.2"/>
-	<ellipse cx="595.1" cy="32.6" rx="1.4" ry="1.3"/>
-	<ellipse cx="599.1" cy="35" rx="1.5" ry="1.3"/>
-	<ellipse cx="602.1" cy="32.6" rx="1.5" ry="1.2"/>
-	<circle cx="604.7" cy="35.3" r="1.2"/>
-	<ellipse cx="608.1" cy="32.7" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="618.2,23.9 618.5,29.2 643.6,29.3 
-		643.3,24.5 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="639.5" y1="24.1" x2="639.5" y2="29.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="636" y1="24.2" x2="635.7" y2="28.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="632.1" y1="24.1" x2="632.2" y2="28.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="629.2" y1="24.2" x2="629.2" y2="28.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="625.2" y1="24.5" x2="625.2" y2="29.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="621.9" y1="24.5" x2="621.9" y2="28.7"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="618.1,42.3 618.2,37.3 643.9,37.2 
-		643.7,42.3 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="639.1" y1="37.8" x2="639.4" y2="41.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="635.6" y1="37.5" x2="635.7" y2="41.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="632.4" y1="37.5" x2="632.2" y2="42.1"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M629.2,38.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="629" y1="42.1" x2="629" y2="37.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="625.1" y1="42.1" x2="624.9" y2="37.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="622.1" y1="42" x2="621.9" y2="37.2"/>
-	<circle cx="623.5" cy="31.6" r="1.4"/>
-	<circle cx="620.1" cy="35" r="1.3"/>
-	<circle cx="626.5" cy="34.8" r="1.2"/>
-	<ellipse cx="630" cy="32.2" rx="1.4" ry="1.3"/>
-	<ellipse cx="634" cy="34.6" rx="1.5" ry="1.3"/>
-	<ellipse cx="637" cy="32.2" rx="1.5" ry="1.2"/>
-	<circle cx="639.6" cy="34.9" r="1.2"/>
-	<ellipse cx="643" cy="32.3" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="652.3,23.9 652.6,29.2 677.7,29.3 
-		677.4,24.5 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="673.6" y1="24.1" x2="673.6" y2="29.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="670.1" y1="24.2" x2="669.8" y2="28.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="666.2" y1="24.1" x2="666.3" y2="28.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="663.3" y1="24.2" x2="663.3" y2="28.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="659.3" y1="24.5" x2="659.3" y2="29.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="656" y1="24.5" x2="656" y2="28.7"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="652.2,42.3 652.3,37.3 678,37.2 
-		677.8,42.3 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="673.2" y1="37.8" x2="673.5" y2="41.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="669.7" y1="37.5" x2="669.8" y2="41.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="666.5" y1="37.5" x2="666.3" y2="42.1"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M663.3,38.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="663.1" y1="42.1" x2="663.1" y2="37.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="659.2" y1="42.1" x2="659" y2="37.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="656.2" y1="42" x2="656" y2="37.2"/>
-	<circle cx="657.6" cy="31.6" r="1.4"/>
-	<circle cx="654.2" cy="35" r="1.3"/>
-	<circle cx="660.6" cy="34.8" r="1.2"/>
-	<ellipse cx="664.1" cy="32.2" rx="1.4" ry="1.3"/>
-	<ellipse cx="668.1" cy="34.6" rx="1.5" ry="1.3"/>
-	<ellipse cx="671.1" cy="32.2" rx="1.5" ry="1.2"/>
-	<circle cx="673.7" cy="34.9" r="1.2"/>
-	<ellipse cx="677.1" cy="32.3" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="835.2,23.9 835.5,29.2 860.6,29.3 
-		860.3,24.5 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="856.5" y1="24.1" x2="856.5" y2="29.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="853" y1="24.2" x2="852.7" y2="28.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="849.1" y1="24.1" x2="849.2" y2="28.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="846.2" y1="24.2" x2="846.2" y2="28.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="842.2" y1="24.5" x2="842.2" y2="29.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="838.9" y1="24.5" x2="838.9" y2="28.7"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="835.1,42.3 835.2,37.3 860.9,37.2 
-		860.7,42.3 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="856.1" y1="37.8" x2="856.4" y2="41.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="852.6" y1="37.5" x2="852.7" y2="41.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="849.4" y1="37.5" x2="849.2" y2="42.1"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M846.2,38.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="846" y1="42.1" x2="846" y2="37.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="842.1" y1="42.1" x2="841.9" y2="37.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="839.1" y1="42" x2="838.9" y2="37.2"/>
-	<circle cx="840.5" cy="31.6" r="1.4"/>
-	<circle cx="837.1" cy="35" r="1.3"/>
-	<circle cx="843.5" cy="34.8" r="1.2"/>
-	<ellipse cx="847" cy="32.2" rx="1.4" ry="1.3"/>
-	<ellipse cx="851" cy="34.6" rx="1.5" ry="1.3"/>
-	<ellipse cx="854" cy="32.2" rx="1.5" ry="1.2"/>
-	<circle cx="856.6" cy="34.9" r="1.2"/>
-	<ellipse cx="860" cy="32.3" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="869.6,24.8 869.9,30.1 895,30.2 
-		894.7,25.4 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="890.9" y1="25" x2="890.9" y2="30.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="887.4" y1="25.1" x2="887.1" y2="29.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="883.5" y1="25" x2="883.6" y2="29.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="880.6" y1="25.1" x2="880.6" y2="29.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="876.6" y1="25.4" x2="876.6" y2="30.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="873.3" y1="25.4" x2="873.3" y2="29.6"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="869.5,43.2 869.6,38.2 895.3,38.1 
-		895.1,43.2 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="890.5" y1="38.7" x2="890.8" y2="42.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="887" y1="38.4" x2="887.1" y2="42.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="883.8" y1="38.4" x2="883.6" y2="43"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M880.6,39"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="880.4" y1="43" x2="880.4" y2="38.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="876.5" y1="43" x2="876.3" y2="38.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="873.5" y1="42.9" x2="873.3" y2="38.1"/>
-	<circle cx="874.9" cy="32.5" r="1.4"/>
-	<circle cx="871.5" cy="35.9" r="1.3"/>
-	<circle cx="877.9" cy="35.7" r="1.2"/>
-	<ellipse cx="881.4" cy="33.1" rx="1.4" ry="1.3"/>
-	<ellipse cx="885.4" cy="35.5" rx="1.5" ry="1.3"/>
-	<ellipse cx="888.4" cy="33.1" rx="1.5" ry="1.2"/>
-	<circle cx="891" cy="35.8" r="1.2"/>
-	<ellipse cx="894.4" cy="33.2" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="903.6,26 904,30.9 929.2,30.8 929,26 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="907.5" y1="26" x2="907.5" y2="30.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="910.4" y1="26.3" x2="911" y2="30.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="915.1" y1="26" x2="914.9" y2="30.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="918.1" y1="26" x2="918.1" y2="30.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="921.3" y1="26" x2="921.5" y2="30.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="924.8" y1="26" x2="924.7" y2="31.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="903.6,43.9 903.6,39.2 928.8,38.9 
-		928.9,43.9 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="924.7" y1="39" x2="924.8" y2="43.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="921.2" y1="39.3" x2="921.3" y2="43.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="917.7" y1="39.1" x2="917.7" y2="44.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="913.8" y1="39" x2="914.1" y2="43.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="910.6" y1="39.1" x2="910.6" y2="43.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="907.5" y1="39" x2="907.5" y2="43.9"/>
-	<circle cx="909" cy="33.6" r="1.3"/>
-	<ellipse cx="905.7" cy="36.3" rx="1.3" ry="1.2"/>
-	<ellipse cx="912.1" cy="36.4" rx="1.3" ry="1.3"/>
-	<ellipse cx="915.7" cy="33.5" rx="1.2" ry="1.2"/>
-	<ellipse cx="919.2" cy="36.4" rx="1.2" ry="1.3"/>
-	<ellipse cx="922.8" cy="33.8" rx="1.3" ry="1"/>
-	<ellipse cx="925.1" cy="36.4" rx="1.2" ry="1.1"/>
-	<ellipse cx="928.2" cy="33.9" rx="1.3" ry="1.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="935,23.7 935.3,29 960.4,29.1 960.2,24.3 
-			"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="956.3" y1="23.9" x2="956.3" y2="29.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="952.8" y1="24" x2="952.5" y2="28.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="948.9" y1="23.9" x2="949" y2="28.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="946" y1="24" x2="946" y2="28.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="942.3" y1="23.4" x2="942.3" y2="28.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="938.7" y1="23.7" x2="938.7" y2="27.9"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="934.9,42.1 935,37.1 960.7,37 960.5,42.1 
-			"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="955.9" y1="37.6" x2="956.2" y2="41.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="952.4" y1="37.3" x2="952.5" y2="41.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="949.2" y1="37.3" x2="949" y2="41.9"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M946,37.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="945.8" y1="41.9" x2="945.8" y2="37.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="945.8" y1="41" x2="945.6" y2="36.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="939.3" y1="42.7" x2="939.1" y2="37.8"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="966.8,22.9 967.2,27.8 992.4,27.6 
-		992.2,22.9 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="970.7" y1="22.9" x2="970.7" y2="27.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="973.6" y1="23.2" x2="974.2" y2="27.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="978.3" y1="22.9" x2="978.1" y2="27.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="981.3" y1="22.9" x2="981.3" y2="27.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="984.5" y1="22.9" x2="984.7" y2="27.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="988" y1="22.9" x2="987.9" y2="28"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="966.8,40.8 966.8,36.1 992,35.7 
-		992.1,40.8 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="987.9" y1="35.8" x2="988" y2="40.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="984.4" y1="36.1" x2="984.5" y2="40.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="980.9" y1="36" x2="980.9" y2="41.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="977" y1="35.8" x2="977.3" y2="40.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="973.8" y1="36" x2="973.8" y2="40.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="970.7" y1="35.8" x2="970.7" y2="40.8"/>
-	<circle cx="972.2" cy="30.4" r="1.3"/>
-	<ellipse cx="968.9" cy="33.1" rx="1.3" ry="1.2"/>
-	<ellipse cx="975.3" cy="33.2" rx="1.3" ry="1.3"/>
-	<ellipse cx="978.9" cy="30.4" rx="1.2" ry="1.2"/>
-	<ellipse cx="982.4" cy="33.2" rx="1.2" ry="1.3"/>
-	<ellipse cx="986" cy="30.6" rx="1.3" ry="1"/>
-	<ellipse cx="988.3" cy="33.2" rx="1.2" ry="1.1"/>
-	<ellipse cx="991.4" cy="30.7" rx="1.3" ry="1.1"/>
-	<circle cx="941.2" cy="30.5" r="1.4"/>
-	<circle cx="937.8" cy="33.9" r="1.3"/>
-	<circle cx="943.3" cy="34.6" r="1.2"/>
-	<ellipse cx="946.8" cy="32" rx="1.4" ry="1.3"/>
-	<ellipse cx="950.8" cy="34.4" rx="1.5" ry="1.3"/>
-	<ellipse cx="953.8" cy="32" rx="1.5" ry="1.2"/>
-	<circle cx="956.5" cy="34.7" r="1.2"/>
-	<ellipse cx="959.8" cy="32.1" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="998.9,23.3 999.2,28.6 1024.3,28.7 
-		1024,23.9 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1020.2" y1="23.5" x2="1020.2" y2="28.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1016.7" y1="23.6" x2="1016.4" y2="28.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1012.7" y1="23.5" x2="1012.9" y2="28"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1009.8" y1="23.6" x2="1009.8" y2="28.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1005.9" y1="23.9" x2="1005.9" y2="28.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1002.5" y1="23.9" x2="1002.5" y2="28.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="998.7,41.7 998.9,36.7 1024.5,36.6 
-		1024.4,41.7 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1019.7" y1="37.2" x2="1020" y2="41.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1016.2" y1="36.9" x2="1016.4" y2="41.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1013" y1="36.9" x2="1012.9" y2="41.6"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M1009.8,37.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1009.7" y1="41.6" x2="1009.7" y2="37"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1005.7" y1="41.6" x2="1005.6" y2="36.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1002.7" y1="41.4" x2="1002.5" y2="36.6"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1031.5,22.5 1031.9,27.4 1057.1,27.2 
-		1057,22.5 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1035.4" y1="22.5" x2="1035.4" y2="27"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1038.4" y1="22.8" x2="1038.9" y2="27.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1043" y1="22.5" x2="1042.9" y2="27.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1046.1" y1="22.5" x2="1046.1" y2="26.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1049.3" y1="22.5" x2="1049.4" y2="27.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1052.8" y1="22.5" x2="1052.6" y2="27.6"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1031.5,40.4 1031.5,35.7 1056.8,35.3 
-		1056.9,40.4 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1052.6" y1="35.4" x2="1052.8" y2="40.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1049.1" y1="35.7" x2="1049.2" y2="40.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1045.6" y1="35.6" x2="1045.6" y2="40.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1041.7" y1="35.4" x2="1042" y2="40.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1038.5" y1="35.6" x2="1038.5" y2="40.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1035.4" y1="35.4" x2="1035.4" y2="40.4"/>
-	<circle cx="1036.9" cy="30" r="1.3"/>
-	<ellipse cx="1033.6" cy="32.7" rx="1.3" ry="1.2"/>
-	<ellipse cx="1040" cy="32.8" rx="1.3" ry="1.3"/>
-	<ellipse cx="1043.6" cy="30" rx="1.2" ry="1.2"/>
-	<ellipse cx="1047.2" cy="32.8" rx="1.2" ry="1.3"/>
-	<ellipse cx="1050.7" cy="30.2" rx="1.3" ry="1"/>
-	<ellipse cx="1053" cy="32.8" rx="1.2" ry="1.1"/>
-	<ellipse cx="1056.2" cy="30.3" rx="1.3" ry="1.1"/>
-	<circle cx="1004.1" cy="31.1" r="1.4"/>
-	<circle cx="1000.8" cy="34.4" r="1.3"/>
-	<circle cx="1007.1" cy="34.3" r="1.2"/>
-	<ellipse cx="1010.6" cy="31.6" rx="1.4" ry="1.3"/>
-	<ellipse cx="1014.6" cy="34" rx="1.5" ry="1.3"/>
-	<ellipse cx="1017.7" cy="31.6" rx="1.5" ry="1.2"/>
-	<circle cx="1020.3" cy="34.3" r="1.2"/>
-	<ellipse cx="1023.6" cy="31.7" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1063.6,23 1063.9,28.2 1089,28.3 
-		1088.7,23.5 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1084.9" y1="23.1" x2="1084.9" y2="28.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1081.4" y1="23.3" x2="1081.1" y2="27.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1077.5" y1="23.1" x2="1077.6" y2="27.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1074.6" y1="23.3" x2="1074.6" y2="27.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1070.6" y1="23.5" x2="1070.6" y2="28.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1067.3" y1="23.5" x2="1067.3" y2="27.8"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1063.5,41.3 1063.6,36.4 1089.3,36.2 
-		1089.1,41.3 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1084.5" y1="36.8" x2="1084.7" y2="40.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1081" y1="36.5" x2="1081.1" y2="41"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1077.8" y1="36.5" x2="1077.6" y2="41.2"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M1074.6,37.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1074.4" y1="41.2" x2="1074.4" y2="36.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1070.5" y1="41.2" x2="1070.3" y2="36.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1067.5" y1="41" x2="1067.3" y2="36.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1096.3,22.1 1096.6,27 1121.9,26.8 
-		1121.7,22.1 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1100.2" y1="22.1" x2="1100.2" y2="26.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1103.1" y1="22.4" x2="1103.7" y2="26.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1107.8" y1="22.1" x2="1107.6" y2="26.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1110.8" y1="22.1" x2="1110.8" y2="26.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1114" y1="22.1" x2="1114.2" y2="26.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1117.5" y1="22.1" x2="1117.4" y2="27.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1096.3,40 1096.3,35.3 1121.5,35 
-		1121.6,40 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1117.4" y1="35" x2="1117.5" y2="40"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1113.9" y1="35.3" x2="1113.9" y2="39.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1110.4" y1="35.2" x2="1110.4" y2="40.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1106.4" y1="35" x2="1106.7" y2="39.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1103.2" y1="35.2" x2="1103.2" y2="40"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1100.2" y1="35" x2="1100.2" y2="40"/>
-	<circle cx="1101.6" cy="29.7" r="1.3"/>
-	<ellipse cx="1098.4" cy="32.4" rx="1.3" ry="1.2"/>
-	<ellipse cx="1104.8" cy="32.4" rx="1.3" ry="1.3"/>
-	<ellipse cx="1108.3" cy="29.6" rx="1.2" ry="1.2"/>
-	<ellipse cx="1111.9" cy="32.4" rx="1.2" ry="1.3"/>
-	<ellipse cx="1115.5" cy="29.8" rx="1.3" ry="1"/>
-	<ellipse cx="1117.8" cy="32.4" rx="1.2" ry="1.1"/>
-	<ellipse cx="1120.9" cy="29.9" rx="1.3" ry="1.1"/>
-	<circle cx="1068.9" cy="30.7" r="1.4"/>
-	<circle cx="1065.5" cy="34" r="1.3"/>
-	<circle cx="1071.9" cy="33.9" r="1.2"/>
-	<ellipse cx="1075.4" cy="31.3" rx="1.4" ry="1.3"/>
-	<ellipse cx="1079.4" cy="33.6" rx="1.5" ry="1.3"/>
-	<ellipse cx="1082.4" cy="31.2" rx="1.5" ry="1.2"/>
-	<circle cx="1085" cy="33.9" r="1.2"/>
-	<ellipse cx="1088.4" cy="31.3" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1127.5,22.6 1127.8,27.8 1152.9,27.9 
-		1152.6,23.2 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1148.7" y1="22.7" x2="1148.7" y2="28"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1145.2" y1="22.9" x2="1144.9" y2="27.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1141.3" y1="22.7" x2="1141.5" y2="27.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1138.4" y1="22.9" x2="1138.4" y2="27.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1134.5" y1="23.2" x2="1134.5" y2="27.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1131.1" y1="23.2" x2="1131.1" y2="27.4"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1127.3,40.9 1127.5,36 1153.1,35.8 
-		1153,40.9 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1148.3" y1="36.4" x2="1148.6" y2="40.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1144.8" y1="36.1" x2="1144.9" y2="40.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1141.6" y1="36.1" x2="1141.5" y2="40.8"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M1138.4,36.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1138.2" y1="40.8" x2="1138.2" y2="36.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1134.3" y1="40.8" x2="1134.2" y2="36.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1131.3" y1="40.7" x2="1131.1" y2="35.8"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1160.1,21.7 1160.5,26.6 1185.7,26.4 
-		1185.5,21.7 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1164" y1="21.7" x2="1164" y2="26.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1166.9" y1="22" x2="1167.5" y2="26.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1171.6" y1="21.7" x2="1171.5" y2="26.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1174.7" y1="21.7" x2="1174.7" y2="25.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1177.9" y1="21.7" x2="1178" y2="26.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1181.4" y1="21.7" x2="1181.2" y2="26.8"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1160.1,39.6 1160.1,34.9 1185.3,34.6 
-		1185.4,39.6 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1181.2" y1="34.7" x2="1181.4" y2="39.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1177.7" y1="35" x2="1177.8" y2="39.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1174.2" y1="34.8" x2="1174.2" y2="39.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1170.3" y1="34.7" x2="1170.6" y2="39.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1167.1" y1="34.8" x2="1167.1" y2="39.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1164" y1="34.7" x2="1164" y2="39.6"/>
-	<circle cx="1165.5" cy="29.3" r="1.3"/>
-	<ellipse cx="1162.2" cy="32" rx="1.3" ry="1.2"/>
-	<ellipse cx="1168.6" cy="32" rx="1.3" ry="1.3"/>
-	<ellipse cx="1172.2" cy="29.2" rx="1.2" ry="1.2"/>
-	<ellipse cx="1175.8" cy="32" rx="1.2" ry="1.3"/>
-	<ellipse cx="1179.3" cy="29.4" rx="1.3" ry="1"/>
-	<ellipse cx="1181.6" cy="32" rx="1.2" ry="1.1"/>
-	<ellipse cx="1184.7" cy="29.5" rx="1.3" ry="1.1"/>
-	<circle cx="1132.7" cy="30.3" r="1.4"/>
-	<circle cx="1129.4" cy="33.6" r="1.3"/>
-	<circle cx="1135.7" cy="33.5" r="1.2"/>
-	<ellipse cx="1139.2" cy="30.9" rx="1.4" ry="1.3"/>
-	<ellipse cx="1143.2" cy="33.2" rx="1.5" ry="1.3"/>
-	<ellipse cx="1146.3" cy="30.8" rx="1.5" ry="1.2"/>
-	<circle cx="1148.9" cy="33.5" r="1.2"/>
-	<ellipse cx="1152.2" cy="30.9" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1192.4,23.3 1192.7,28.6 1217.8,28.7 
-		1217.5,23.9 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1213.7" y1="23.5" x2="1213.7" y2="28.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1210.2" y1="23.6" x2="1209.9" y2="28.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1206.2" y1="23.5" x2="1206.4" y2="28"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1203.3" y1="23.6" x2="1203.3" y2="28.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1199.4" y1="23.9" x2="1199.4" y2="28.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1196.1" y1="23.9" x2="1196.1" y2="28.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1192.3,41.7 1192.4,36.7 1218,36.6 
-		1217.9,41.7 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1213.2" y1="37.2" x2="1213.5" y2="41.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1209.7" y1="36.9" x2="1209.9" y2="41.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1206.5" y1="36.9" x2="1206.4" y2="41.6"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M1203.3,37.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1203.2" y1="41.6" x2="1203.2" y2="37"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1199.3" y1="41.6" x2="1199.1" y2="36.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1196.3" y1="41.4" x2="1196.1" y2="36.6"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1223.6,23.4 1224,28.3 1249.2,28.1 
-		1249.1,23.4 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1227.5" y1="23.4" x2="1227.5" y2="27.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1230.5" y1="23.7" x2="1231" y2="28.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1235.1" y1="23.4" x2="1235" y2="28"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1238.2" y1="23.4" x2="1238.2" y2="27.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1241.4" y1="23.4" x2="1241.5" y2="28"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1244.9" y1="23.4" x2="1244.7" y2="28.5"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1223.6,41.3 1223.6,36.6 1248.9,36.2 
-		1249,41.3 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1244.7" y1="36.3" x2="1244.9" y2="41.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1241.2" y1="36.6" x2="1241.3" y2="41"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1237.7" y1="36.5" x2="1237.7" y2="41.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1233.8" y1="36.3" x2="1234.1" y2="41.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1230.6" y1="36.5" x2="1230.6" y2="41.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1227.5" y1="36.3" x2="1227.5" y2="41.3"/>
-	<circle cx="1229" cy="30.9" r="1.3"/>
-	<ellipse cx="1225.7" cy="33.6" rx="1.3" ry="1.2"/>
-	<ellipse cx="1232.1" cy="33.7" rx="1.3" ry="1.3"/>
-	<ellipse cx="1235.7" cy="30.9" rx="1.2" ry="1.2"/>
-	<ellipse cx="1239.3" cy="33.7" rx="1.2" ry="1.3"/>
-	<ellipse cx="1242.8" cy="31.1" rx="1.3" ry="1"/>
-	<ellipse cx="1245.1" cy="33.7" rx="1.2" ry="1.1"/>
-	<ellipse cx="1248.3" cy="31.2" rx="1.3" ry="1.1"/>
-	<circle cx="1197.6" cy="31" r="1.4"/>
-	<circle cx="1194.3" cy="34.4" r="1.3"/>
-	<circle cx="1200.6" cy="34.3" r="1.2"/>
-	<ellipse cx="1204.1" cy="31.6" rx="1.4" ry="1.3"/>
-	<ellipse cx="1208.1" cy="34" rx="1.5" ry="1.3"/>
-	<ellipse cx="1211.2" cy="31.6" rx="1.5" ry="1.2"/>
-	<circle cx="1213.8" cy="34.3" r="1.2"/>
-	<ellipse cx="1217.2" cy="31.7" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1254.9,23.9 1255.2,29.1 1280.3,29.2 
-		1280,24.4 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1276.2" y1="24" x2="1276.2" y2="29.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1272.7" y1="24.1" x2="1272.4" y2="28.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1268.7" y1="24" x2="1268.9" y2="28.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1265.8" y1="24.1" x2="1265.8" y2="28.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1261.9" y1="24.4" x2="1261.9" y2="29.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1258.5" y1="24.4" x2="1258.5" y2="28.7"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1254.8,42.2 1254.9,37.3 1280.5,37.1 
-		1280.4,42.2 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1275.7" y1="37.7" x2="1276" y2="41.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1272.2" y1="37.4" x2="1272.4" y2="41.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1269" y1="37.4" x2="1268.9" y2="42.1"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M1265.8,38"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1265.7" y1="42.1" x2="1265.7" y2="37.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1261.7" y1="42.1" x2="1261.6" y2="37.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1258.7" y1="41.9" x2="1258.5" y2="37.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1286,23 1286.4,27.9 1311.6,27.7 
-		1311.4,23 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1289.9" y1="23" x2="1289.9" y2="27.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1292.8" y1="23.3" x2="1293.4" y2="27.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1297.5" y1="23" x2="1297.3" y2="27.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1300.5" y1="23" x2="1300.5" y2="27.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1303.8" y1="23" x2="1303.9" y2="27.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1307.2" y1="23" x2="1307.1" y2="28.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1286,40.9 1286,36.2 1311.2,35.9 
-		1311.3,40.9 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1307.1" y1="35.9" x2="1307.2" y2="40.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1303.6" y1="36.2" x2="1303.7" y2="40.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1300.1" y1="36.1" x2="1300.1" y2="41.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1296.2" y1="35.9" x2="1296.5" y2="40.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1293" y1="36.1" x2="1293" y2="40.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1289.9" y1="35.9" x2="1289.9" y2="40.9"/>
-	<circle cx="1291.4" cy="30.6" r="1.3"/>
-	<ellipse cx="1288.1" cy="33.3" rx="1.3" ry="1.2"/>
-	<ellipse cx="1294.5" cy="33.3" rx="1.3" ry="1.3"/>
-	<ellipse cx="1298.1" cy="30.5" rx="1.2" ry="1.2"/>
-	<ellipse cx="1301.7" cy="33.3" rx="1.2" ry="1.3"/>
-	<ellipse cx="1305.2" cy="30.7" rx="1.3" ry="1"/>
-	<ellipse cx="1307.5" cy="33.3" rx="1.2" ry="1.1"/>
-	<ellipse cx="1310.6" cy="30.8" rx="1.3" ry="1.1"/>
-	<circle cx="1260.1" cy="31.6" r="1.4"/>
-	<circle cx="1256.8" cy="34.9" r="1.3"/>
-	<circle cx="1263.1" cy="34.8" r="1.2"/>
-	<ellipse cx="1266.6" cy="32.2" rx="1.4" ry="1.3"/>
-	<ellipse cx="1270.6" cy="34.5" rx="1.5" ry="1.3"/>
-	<ellipse cx="1273.7" cy="32.1" rx="1.5" ry="1.2"/>
-	<circle cx="1276.3" cy="34.8" r="1.2"/>
-	<ellipse cx="1279.7" cy="32.2" rx="1.3" ry="1.2"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1317.7,23.5 1318,28.7 1343.1,28.8 
-		1342.8,24 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1339" y1="23.6" x2="1339" y2="28.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1335.5" y1="23.8" x2="1335.2" y2="28.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1331.5" y1="23.6" x2="1331.7" y2="28.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1328.6" y1="23.8" x2="1328.6" y2="28.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1324.7" y1="24" x2="1324.7" y2="28.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1321.3" y1="24" x2="1321.3" y2="28.3"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1317.6,41.8 1317.7,36.9 1343.3,36.7 
-		1343.2,41.8 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1338.5" y1="37.3" x2="1338.8" y2="41.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1335" y1="37" x2="1335.2" y2="41.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1331.8" y1="37" x2="1331.7" y2="41.7"/>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M1328.6,37.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1328.5" y1="41.7" x2="1328.5" y2="37.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1324.5" y1="41.7" x2="1324.4" y2="37"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1321.5" y1="41.6" x2="1321.3" y2="36.7"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1349.8,22.6 1350.2,27.5 1375.4,27.3 
-		1375.2,22.6 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1353.7" y1="22.6" x2="1353.7" y2="27.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1356.6" y1="22.9" x2="1357.2" y2="27.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1361.3" y1="22.6" x2="1361.2" y2="27.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1364.4" y1="22.6" x2="1364.4" y2="26.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1367.6" y1="22.6" x2="1367.7" y2="27.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1371.1" y1="22.6" x2="1370.9" y2="27.7"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1349.8,40.5 1349.8,35.8 1375.1,35.5 
-		1375.1,40.5 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1370.9" y1="35.6" x2="1371.1" y2="40.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1367.4" y1="35.8" x2="1367.5" y2="40.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1363.9" y1="35.7" x2="1363.9" y2="40.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1360" y1="35.6" x2="1360.3" y2="40.4"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1356.8" y1="35.7" x2="1356.8" y2="40.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1353.7" y1="35.6" x2="1353.7" y2="40.5"/>
-	<circle cx="1355.2" cy="30.2" r="1.3"/>
-	<ellipse cx="1351.9" cy="32.9" rx="1.3" ry="1.2"/>
-	<ellipse cx="1358.3" cy="32.9" rx="1.3" ry="1.3"/>
-	<ellipse cx="1361.9" cy="30.1" rx="1.2" ry="1.2"/>
-	<ellipse cx="1365.5" cy="32.9" rx="1.2" ry="1.3"/>
-	<ellipse cx="1369" cy="30.3" rx="1.3" ry="1"/>
-	<ellipse cx="1371.3" cy="32.9" rx="1.2" ry="1.1"/>
-	<ellipse cx="1374.4" cy="30.4" rx="1.3" ry="1.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1381.5,24.5 1381.9,29.4 1407.2,29.3 
-		1407,24.5 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1385.5" y1="24.5" x2="1385.5" y2="29.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1388.4" y1="24.8" x2="1389" y2="29.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1393" y1="24.5" x2="1392.9" y2="29.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1396.1" y1="24.5" x2="1396.1" y2="28.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1399.3" y1="24.5" x2="1399.4" y2="29.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1402.8" y1="24.5" x2="1402.7" y2="29.6"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1381.5,42.5 1381.5,37.7 1406.8,37.4 
-		1406.9,42.5 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1402.7" y1="37.5" x2="1402.8" y2="42.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1399.2" y1="37.8" x2="1399.2" y2="42.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1395.7" y1="37.6" x2="1395.7" y2="42.7"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1391.7" y1="37.5" x2="1392" y2="42.3"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1388.5" y1="37.6" x2="1388.5" y2="42.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1385.5" y1="37.5" x2="1385.5" y2="42.5"/>
-	<circle cx="1386.9" cy="32.1" r="1.3"/>
-	<ellipse cx="1383.6" cy="34.8" rx="1.3" ry="1.2"/>
-	<ellipse cx="1390.1" cy="34.9" rx="1.3" ry="1.3"/>
-	<ellipse cx="1393.6" cy="32" rx="1.2" ry="1.2"/>
-	<ellipse cx="1397.2" cy="34.9" rx="1.2" ry="1.3"/>
-	<ellipse cx="1400.8" cy="32.3" rx="1.3" ry="1"/>
-	<ellipse cx="1403" cy="34.9" rx="1.2" ry="1.1"/>
-	<ellipse cx="1406.2" cy="32.4" rx="1.3" ry="1.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1413.3,22.3 1413.7,27.2 1438.9,27 
-		1438.7,22.3 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1417.2" y1="22.3" x2="1417.2" y2="26.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1420.1" y1="22.6" x2="1420.7" y2="27.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1424.8" y1="22.3" x2="1424.6" y2="27"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1427.8" y1="22.3" x2="1427.8" y2="26.6"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1431" y1="22.3" x2="1431.2" y2="27"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1434.5" y1="22.3" x2="1434.4" y2="27.4"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1413.3,40.2 1413.3,35.5 1438.5,35.2 
-		1438.6,40.2 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1434.4" y1="35.3" x2="1434.5" y2="40.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1430.9" y1="35.6" x2="1431" y2="40"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1427.4" y1="35.4" x2="1427.4" y2="40.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1423.5" y1="35.3" x2="1423.8" y2="40.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1420.3" y1="35.4" x2="1420.3" y2="40.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1417.2" y1="35.3" x2="1417.2" y2="40.2"/>
-	<circle cx="1418.7" cy="29.9" r="1.3"/>
-	<ellipse cx="1415.4" cy="32.6" rx="1.3" ry="1.2"/>
-	<ellipse cx="1421.8" cy="32.7" rx="1.3" ry="1.3"/>
-	<ellipse cx="1425.4" cy="29.8" rx="1.2" ry="1.2"/>
-	<ellipse cx="1428.9" cy="32.7" rx="1.2" ry="1.3"/>
-	<ellipse cx="1432.5" cy="30" rx="1.3" ry="1"/>
-	<ellipse cx="1434.8" cy="32.7" rx="1.2" ry="1.1"/>
-	<ellipse cx="1437.9" cy="30.2" rx="1.3" ry="1.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1444.1,24.3 1444.5,29.2 1469.7,29 
-		1469.5,24.3 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1448" y1="24.3" x2="1448" y2="28.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1450.9" y1="24.6" x2="1451.5" y2="29.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1455.6" y1="24.3" x2="1455.5" y2="28.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1458.7" y1="24.3" x2="1458.7" y2="28.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1461.9" y1="24.3" x2="1462" y2="28.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1465.4" y1="24.3" x2="1465.2" y2="29.4"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1444.1,42.2 1444.1,37.5 1469.4,37.1 
-		1469.4,42.2 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1465.2" y1="37.2" x2="1465.4" y2="42.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1461.7" y1="37.5" x2="1461.8" y2="41.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1458.2" y1="37.4" x2="1458.2" y2="42.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1454.3" y1="37.2" x2="1454.6" y2="42"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1451.1" y1="37.4" x2="1451.1" y2="42.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1448" y1="37.2" x2="1448" y2="42.2"/>
-	<circle cx="1449.5" cy="31.8" r="1.3"/>
-	<ellipse cx="1446.2" cy="34.5" rx="1.3" ry="1.2"/>
-	<ellipse cx="1452.6" cy="34.6" rx="1.3" ry="1.3"/>
-	<ellipse cx="1456.2" cy="31.8" rx="1.2" ry="1.2"/>
-	<ellipse cx="1459.8" cy="34.6" rx="1.2" ry="1.3"/>
-	<ellipse cx="1463.3" cy="32" rx="1.3" ry="1"/>
-	<ellipse cx="1465.6" cy="34.6" rx="1.2" ry="1.1"/>
-	<ellipse cx="1468.7" cy="32.1" rx="1.3" ry="1.1"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1474.1,23.3 1474.5,28.2 1499.8,28 
-		1499.6,23.3 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1478.1" y1="23.3" x2="1478.1" y2="27.8"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1481" y1="23.6" x2="1481.6" y2="28.1"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1485.6" y1="23.3" x2="1485.5" y2="27.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1488.7" y1="23.3" x2="1488.7" y2="27.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1491.9" y1="23.3" x2="1492" y2="27.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1495.4" y1="23.3" x2="1495.3" y2="28.4"/>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1474.1,41.2 1474.1,36.5 1499.4,36.1 
-		1499.5,41.2 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1495.3" y1="36.2" x2="1495.4" y2="41.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1491.8" y1="36.5" x2="1491.8" y2="40.9"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1488.3" y1="36.4" x2="1488.3" y2="41.5"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1484.3" y1="36.2" x2="1484.6" y2="41"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1481.1" y1="36.4" x2="1481.1" y2="41.2"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1478.1" y1="36.2" x2="1478.1" y2="41.2"/>
-	<circle cx="1479.5" cy="30.8" r="1.3"/>
-	<ellipse cx="1476.2" cy="33.5" rx="1.3" ry="1.2"/>
-	<ellipse cx="1482.7" cy="33.6" rx="1.3" ry="1.3"/>
-	<ellipse cx="1486.2" cy="30.8" rx="1.2" ry="1.2"/>
-	<ellipse cx="1489.8" cy="33.6" rx="1.2" ry="1.3"/>
-	<ellipse cx="1493.4" cy="31" rx="1.3" ry="1"/>
-	<ellipse cx="1495.6" cy="33.6" rx="1.2" ry="1.1"/>
-	<ellipse cx="1498.8" cy="31.1" rx="1.3" ry="1.1"/>
-	<circle cx="1322.9" cy="31.2" r="1.4"/>
-	<circle cx="1319.6" cy="34.5" r="1.3"/>
-	<circle cx="1325.9" cy="34.4" r="1.2"/>
-	<ellipse cx="1329.4" cy="31.8" rx="1.4" ry="1.3"/>
-	<ellipse cx="1333.4" cy="34.1" rx="1.5" ry="1.3"/>
-	<ellipse cx="1336.5" cy="31.7" rx="1.5" ry="1.2"/>
-	<circle cx="1339.1" cy="34.4" r="1.2"/>
-	<ellipse cx="1342.5" cy="31.8" rx="1.3" ry="1.2"/>
-</g>
 <g id="Layer_4" display="none">
 	<polyline display="inline" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="616,23.5 616.3,28.4 
 		641.6,28.2 641.4,23.5 	"/>
@@ -1358,6 +333,202 @@
 	<ellipse display="inline" cx="801" cy="33.6" rx="1.3" ry="1.2"/>
 </g>
 <g id="Layer_3">
-	<text transform="matrix(1 0 0 1 697.5019 41.9845)" font-family="'BlissPro-Bold'" font-size="28" letter-spacing="1">VISIT US</text>
+	
+		<text transform="matrix(1 0 0 1 696.6019 41.9845)" fill="#F5F5FA" font-family="'BlissPro-Bold'" font-size="28" letter-spacing="1">VISIT US</text>
 </g>
+<polygon fill="#F5F5FA" points="668.9,28.8 664.7,32.5 660.7,28.4 656.5,32.6 660.3,36.7 664.6,33.3 668.9,37 673.1,33 "/>
+<path fill="#F5F5FA" d="M658.1,26.8l-4.6-5.4l-5.1,4.9l5.1,5.3L658.1,26.8z M650.8,26.2l2.6-2.5l2.3,2.7l-2.3,2.5L650.8,26.2z"/>
+<path fill="#F5F5FA" d="M647.9,38.9L653,44l5.7-5l-5.6-5.7L647.9,38.9z M655.7,39l-2.3,2.5l-2.6-2.7l2.6-2.5L655.7,39z"/>
+<polygon fill="#F5F5FA" points="646.5,28.8 642.2,32.5 638.3,28.4 634,32.6 637.8,36.7 642.1,33.3 646.5,37 650.6,33 "/>
+<path fill="#F5F5FA" d="M635.6,26.8l-4.5-5.4l-5.2,4.9l5.2,5.3L635.6,26.8z M628.3,26.2l2.6-2.5l2.3,2.7l-2.3,2.5L628.3,26.2z"/>
+<path fill="#F5F5FA" d="M625.5,38.9l5,5.1l5.7-5l-5.6-5.7L625.5,38.9z M633.2,39l-2.3,2.5l-2.6-2.7l2.6-2.5L633.2,39z"/>
+<polygon fill="#F5F5FA" points="623.5,28.8 619.2,32.5 615.3,28.4 611,32.6 614.8,36.7 619.1,33.3 623.5,37 627.6,33 "/>
+<path fill="#F5F5FA" d="M612.6,26.8l-4.6-5.4l-5.1,4.9l5.1,5.3L612.6,26.8z M605.3,26.2l2.6-2.5l2.3,2.7l-2.3,2.5L605.3,26.2z"/>
+<path fill="#F5F5FA" d="M602.5,38.9l5,5.1l5.7-5l-5.6-5.7L602.5,38.9z M610.2,39l-2.3,2.5l-2.6-2.7l2.6-2.5L610.2,39z"/>
+<polygon fill="#F5F5FA" points="600.5,28.2 596.2,31.9 592.3,27.9 588,32 591.8,36.2 596.1,32.8 600.5,36.4 604.6,32.5 "/>
+<polygon fill="#F5F5FA" points="577.6,27.5 573.3,31.2 569.4,27.2 565.1,31.3 568.9,35.5 573.2,32.1 577.6,35.7 581.7,31.8 "/>
+<path fill="#F5F5FA" d="M589.6,26.2l-4.6-5.3l-5.1,4.9L585,31L589.6,26.2z M582.3,25.7l2.6-2.5l2.3,2.7l-2.3,2.4L582.3,25.7z"/>
+<path fill="#F5F5FA" d="M579.5,38.4l5,5l5.7-4.9l-5.6-5.7L579.5,38.4z M587.2,38.5l-2.3,2.4l-2.6-2.6l2.6-2.5L587.2,38.5z"/>
+<path fill="#F5F5FA" d="M670.8,26.5l5.8,5.3l4.8-4.8l-5.2-5.5L670.8,26.5z M678.7,26.4l-2.3,2.5l-2.6-2.7l2.6-2.5L678.7,26.4z"/>
+<path fill="#F5F5FA" d="M670.7,39.3l5.5,5.1l5-5.6l-5.3-4.9L670.7,39.3z M675.8,41.5l-2.6-2.7l2.6-2.5l2.4,2.7L675.8,41.5z"/>
+<polygon fill="#F5F5FA" points="555.2,27.4 551,31.1 547,27 542.8,31.2 546.6,35.4 550.9,32 555.2,35.6 559.4,31.6 "/>
+<path fill="#F5F5FA" d="M544.4,25.4l-4.6-5.4l-5.1,5l5.1,5.2L544.4,25.4z M537.1,24.8l2.6-2.5L542,25l-2.3,2.5L537.1,24.8z"/>
+<path fill="#F5F5FA" d="M534.2,37.5l5.1,5.1l5.7-5l-5.6-5.6L534.2,37.5z M542,37.6l-2.3,2.5l-2.6-2.7l2.6-2.5L542,37.6z"/>
+<polygon fill="#F5F5FA" points="532.8,27.4 528.5,31.1 524.6,27 520.3,31.2 524.1,35.4 528.4,32 532.8,35.6 536.9,31.6 "/>
+<path fill="#F5F5FA" d="M522,25.4l-4.6-5.4l-5.2,5l5.2,5.2L522,25.4z M514.6,24.8l2.6-2.5l2.4,2.7l-2.4,2.5L514.6,24.8z"/>
+<path fill="#F5F5FA" d="M511.8,37.5l5,5.1l5.7-5l-5.6-5.6L511.8,37.5z M519.6,37.6l-2.4,2.5l-2.6-2.7l2.6-2.5L519.6,37.6z"/>
+<polygon fill="#F5F5FA" points="509.8,27.4 505.5,31.1 501.6,27 497.3,31.2 501.1,35.4 505.4,32 509.8,35.6 513.9,31.6 "/>
+<path fill="#F5F5FA" d="M498.9,25.4l-4.5-5.4l-5.2,5l5.2,5.2L498.9,25.4z M491.6,24.8l2.6-2.5l2.3,2.7l-2.3,2.5L491.6,24.8z"/>
+<path fill="#F5F5FA" d="M488.8,37.5l5,5.1l5.7-5l-5.6-5.6L488.8,37.5z M496.5,37.6l-2.3,2.5l-2.6-2.7l2.6-2.5L496.5,37.6z"/>
+<polygon fill="#F5F5FA" points="486.8,26.8 482.5,30.5 478.6,26.5 474.3,30.6 478.1,34.8 482.4,31.4 486.8,35 490.9,31.1 "/>
+<polygon fill="#F5F5FA" points="463.9,26.1 459.6,29.8 455.7,25.8 451.4,30 455.2,34.1 459.5,30.7 463.9,34.3 468,30.4 "/>
+<path fill="#F5F5FA" d="M475.9,24.8l-4.6-5.3l-5.1,4.9l5.1,5.3L475.9,24.8z M468.6,24.3l2.6-2.5l2.3,2.7l-2.3,2.4L468.6,24.3z"/>
+<path fill="#F5F5FA" d="M465.8,37l5,5l5.7-4.9l-5.6-5.7L465.8,37z M473.5,37.1l-2.3,2.4l-2.6-2.6l2.6-2.5L473.5,37.1z"/>
+<path fill="#F5F5FA" d="M567.7,25.6l-5.2-5.5l-5.4,5l5.8,5.3L567.7,25.6z M560.1,24.8l2.6-2.5L565,25l-2.3,2.5L560.1,24.8z"/>
+<path fill="#F5F5FA" d="M557,37.9l5.5,5.1l5-5.6l-5.3-4.9L557,37.9z M562.2,40.1l-2.6-2.7l2.6-2.5l2.3,2.7L562.2,40.1z"/>
+<polygon fill="#F5F5FA" points="440.2,26.7 435.9,30.4 432,26.3 427.7,30.5 431.5,34.7 435.8,31.3 440.2,34.9 444.3,30.9 "/>
+<path fill="#F5F5FA" d="M429.3,24.7l-4.5-5.4l-5.2,5l5.2,5.2L429.3,24.7z M422,24.1l2.6-2.5l2.3,2.7l-2.3,2.5L422,24.1z"/>
+<path fill="#F5F5FA" d="M419.2,36.8l5,5.1l5.7-4.9l-5.6-5.7L419.2,36.8z M426.9,36.9l-2.3,2.5l-2.6-2.7l2.6-2.5L426.9,36.9z"/>
+<polygon fill="#F5F5FA" points="417.7,26.7 413.4,30.4 409.5,26.3 405.2,30.5 409.1,34.7 413.3,31.3 417.7,34.9 421.9,30.9 "/>
+<path fill="#F5F5FA" d="M406.9,24.7l-4.6-5.4l-5.2,5l5.2,5.2L406.9,24.7z M399.6,24.1l2.6-2.5l2.3,2.7l-2.3,2.5L399.6,24.1z"/>
+<path fill="#F5F5FA" d="M396.7,36.8l5,5.1l5.7-4.9l-5.5-5.7L396.7,36.8z M404.5,36.9l-2.3,2.5l-2.6-2.7l2.6-2.5L404.5,36.9z"/>
+<polygon fill="#F5F5FA" points="394.7,26.7 390.4,30.4 386.5,26.3 382.2,30.5 386.1,34.7 390.3,31.3 394.7,34.9 398.9,30.9 "/>
+<path fill="#F5F5FA" d="M383.9,24.7l-4.6-5.4l-5.2,5l5.2,5.2L383.9,24.7z M376.5,24.1l2.6-2.5l2.4,2.7l-2.4,2.5L376.5,24.1z"/>
+<path fill="#F5F5FA" d="M373.7,36.8l5,5.1l5.7-4.9l-5.6-5.7L373.7,36.8z M381.5,36.9l-2.4,2.5l-2.6-2.7l2.6-2.5L381.5,36.9z"/>
+<polygon fill="#F5F5FA" points="371.7,26.1 367.4,29.8 363.5,25.8 359.2,30 363,34.1 367.3,30.7 371.7,34.3 375.8,30.4 "/>
+<polygon fill="#F5F5FA" points="348.8,26.4 344.5,30.2 340.6,26.1 336.3,30.3 340.2,34.4 344.4,31 348.8,34.6 353,30.7 "/>
+<path fill="#F5F5FA" d="M360.9,24.2l-4.6-5.4l-5.2,4.9l5.2,5.3L360.9,24.2z M353.5,23.6l2.6-2.5l2.4,2.7l-2.4,2.4L353.5,23.6z"/>
+<path fill="#F5F5FA" d="M350.7,36.3l5,5l5.7-4.9l-5.6-5.7L350.7,36.3z M358.5,36.4l-2.4,2.4l-2.6-2.6l2.6-2.5L358.5,36.4z"/>
+<path fill="#F5F5FA" d="M452.6,24.9l-5.2-5.4l-5.4,4.9l5.8,5.3L452.6,24.9z M445,24.1l2.6-2.5l2.3,2.7l-2.3,2.5L445,24.1z"/>
+<path fill="#F5F5FA" d="M441.9,37.2l5.5,5.1l5-5.6l-5.2-4.9L441.9,37.2z M447.1,39.4l-2.6-2.7l2.6-2.5l2.3,2.7L447.1,39.4z"/>
+<polygon fill="#F5F5FA" points="326.5,26.3 322.2,30 318.3,26 314,30.1 317.8,34.3 322.1,30.9 326.5,34.5 330.6,30.6 "/>
+<path fill="#F5F5FA" d="M315.7,24.3l-4.6-5.3l-5.2,4.9l5.2,5.2L315.7,24.3z M308.3,23.7l2.6-2.5l2.3,2.8l-2.3,2.4L308.3,23.7z"/>
+<path fill="#F5F5FA" d="M305.5,36.5l5,5l5.7-4.9l-5.6-5.7L305.5,36.5z M313.2,36.6l-2.3,2.4l-2.6-2.7l2.6-2.4L313.2,36.6z"/>
+<polygon fill="#F5F5FA" points="304,26.3 299.8,30 295.8,26 291.6,30.1 295.4,34.3 299.6,30.9 304,34.5 308.2,30.6 "/>
+<path fill="#F5F5FA" d="M293.2,24.3l-4.6-5.3l-5.1,4.9l5.1,5.2L293.2,24.3z M285.9,23.7l2.6-2.5l2.3,2.8l-2.3,2.4L285.9,23.7z"/>
+<path fill="#F5F5FA" d="M283,36.5l5.1,5l5.6-4.9l-5.5-5.7L283,36.5z M290.8,36.6l-2.3,2.4l-2.6-2.7l2.6-2.4L290.8,36.6z"/>
+<polygon fill="#F5F5FA" points="281,26.3 276.7,30 272.8,26 268.5,30.1 272.4,34.3 276.6,30.9 281,34.5 285.2,30.6 "/>
+<path fill="#F5F5FA" d="M270.2,24.3l-4.6-5.3l-5.2,4.9l5.2,5.2L270.2,24.3z M262.9,23.7l2.6-2.5l2.3,2.8l-2.3,2.4L262.9,23.7z"/>
+<path fill="#F5F5FA" d="M260,36.5l5,5l5.7-4.9l-5.5-5.7L260,36.5z M267.8,36.6l-2.3,2.4l-2.6-2.7l2.6-2.4L267.8,36.6z"/>
+<polygon fill="#F5F5FA" points="258,25.7 253.7,29.5 249.8,25.4 245.5,29.6 249.4,33.7 253.6,30.3 258,33.9 262.2,30 "/>
+<polygon fill="#F5F5FA" points="235.1,25 230.9,28.8 226.9,24.7 222.7,28.9 226.5,33 230.7,29.6 235.1,33.2 239.3,29.3 "/>
+<path fill="#F5F5FA" d="M247.2,23.8l-4.6-5.4l-5.2,4.9l5.2,5.3L247.2,23.8z M239.8,23.2l2.6-2.5l2.4,2.7l-2.4,2.4L239.8,23.2z"/>
+<path fill="#F5F5FA" d="M237,35.9l5,5l5.7-4.9l-5.6-5.7L237,35.9z M244.8,36l-2.4,2.4l-2.6-2.6l2.6-2.5L244.8,36z"/>
+<path fill="#F5F5FA" d="M339,24.5l-5.3-5.4l-5.4,4.9l5.8,5.3L339,24.5z M331.3,23.7l2.6-2.5l2.4,2.8l-2.4,2.4L331.3,23.7z"/>
+<path fill="#F5F5FA" d="M328.2,36.8l5.5,5.1l5-5.6l-5.2-4.9L328.2,36.8z M333.4,39l-2.6-2.7l2.6-2.4l2.3,2.7L333.4,39z"/>
+<polygon fill="#F5F5FA" points="210.2,25.7 205.9,29.4 202,25.3 197.7,29.5 201.5,33.7 205.8,30.3 210.2,33.9 214.3,29.9 "/>
+<path fill="#F5F5FA" d="M199.3,23.7l-4.5-5.4l-5.2,5l5.2,5.2L199.3,23.7z M192,23.1l2.6-2.5l2.3,2.7l-2.3,2.5L192,23.1z"/>
+<path fill="#F5F5FA" d="M189.2,35.8l5,5.1l5.7-4.9l-5.6-5.7L189.2,35.8z M196.9,35.9l-2.3,2.5l-2.6-2.7l2.6-2.5L196.9,35.9z"/>
+<polygon fill="#F5F5FA" points="187.7,25.7 183.4,29.4 179.5,25.3 175.2,29.5 179.1,33.7 183.3,30.3 187.7,33.9 191.9,29.9 "/>
+<path fill="#F5F5FA" d="M176.9,23.7l-4.6-5.4l-5.2,5l5.2,5.2L176.9,23.7z M169.6,23.1l2.6-2.5l2.3,2.7l-2.3,2.5L169.6,23.1z"/>
+<path fill="#F5F5FA" d="M166.7,35.8l5,5.1l5.7-4.9l-5.5-5.7L166.7,35.8z M174.5,35.9l-2.3,2.5l-2.6-2.7l2.6-2.5L174.5,35.9z"/>
+<polygon fill="#F5F5FA" points="164.7,25.7 160.4,29.4 156.5,25.3 152.2,29.5 156.1,33.7 160.3,30.3 164.7,33.9 168.9,29.9 "/>
+<path fill="#F5F5FA" d="M153.9,23.7l-4.6-5.4l-5.2,5l5.2,5.2L153.9,23.7z M146.5,23.1l2.6-2.5l2.4,2.7l-2.4,2.5L146.5,23.1z"/>
+<path fill="#F5F5FA" d="M143.7,35.8l5,5.1l5.7-4.9l-5.6-5.7L143.7,35.8z M151.5,35.9l-2.4,2.5l-2.6-2.7l2.6-2.5L151.5,35.9z"/>
+<polygon fill="#F5F5FA" points="141.7,25.1 137.4,28.8 133.5,24.8 129.2,29 133,33.1 137.3,29.7 141.7,33.3 145.8,29.4 "/>
+<polygon fill="#F5F5FA" points="118.8,24.4 114.5,28.2 110.6,24.1 106.3,28.3 110.2,32.4 114.4,29 118.8,32.6 123,28.7 "/>
+<path fill="#F5F5FA" d="M130.9,23.2l-4.6-5.4l-5.2,4.9l5.2,5.3L130.9,23.2z M123.5,22.6l2.6-2.5l2.4,2.7l-2.4,2.4L123.5,22.6z"/>
+<path fill="#F5F5FA" d="M120.7,35.3l5,5l5.7-4.9l-5.6-5.7L120.7,35.3z M128.5,35.4l-2.4,2.4l-2.6-2.6l2.6-2.5L128.5,35.4z"/>
+<path fill="#F5F5FA" d="M212,23.4l5.8,5.3l4.8-4.8l-5.2-5.4L212,23.4z M219.9,23.3l-2.3,2.5l-2.6-2.7l2.6-2.5L219.9,23.3z"/>
+<path fill="#F5F5FA" d="M211.9,36.2l5.5,5.1l5-5.6l-5.2-4.9L211.9,36.2z M217.1,38.4l-2.6-2.7l2.6-2.5l2.3,2.7L217.1,38.4z"/>
+<polygon fill="#F5F5FA" points="96.5,24.3 92.2,28 88.3,24 84,28.1 87.8,32.3 92.1,28.9 96.5,32.5 100.6,28.6 "/>
+<path fill="#F5F5FA" d="M85.7,22.3L81.1,17l-5.2,4.9l5.2,5.2L85.7,22.3z M78.3,21.7l2.6-2.5l2.3,2.8l-2.3,2.4L78.3,21.7z"/>
+<path fill="#F5F5FA" d="M75.5,34.5l5,5l5.7-4.9l-5.6-5.7L75.5,34.5z M83.2,34.6L80.9,37l-2.6-2.7l2.6-2.4L83.2,34.6z"/>
+<polygon fill="#F5F5FA" points="74,24.3 69.8,28 65.8,24 61.6,28.1 65.4,32.3 69.6,28.9 74,32.5 78.2,28.6 "/>
+<path fill="#F5F5FA" d="M63.2,22.3L58.6,17l-5.1,4.9l5.1,5.2L63.2,22.3z M55.9,21.7l2.6-2.5l2.3,2.8l-2.3,2.4L55.9,21.7z"/>
+<path fill="#F5F5FA" d="M53,34.5l5.1,5l5.6-4.9l-5.5-5.7L53,34.5z M60.8,34.6L58.5,37l-2.6-2.7l2.6-2.4L60.8,34.6z"/>
+<polygon fill="#F5F5FA" points="51,24.3 46.7,28 42.8,24 38.5,28.1 42.4,32.3 46.6,28.9 51,32.5 55.2,28.6 "/>
+<path fill="#F5F5FA" d="M40.2,22.3L35.6,17l-5.2,4.9l5.2,5.2L40.2,22.3z M32.9,21.7l2.6-2.5l2.3,2.8l-2.3,2.4L32.9,21.7z"/>
+<path fill="#F5F5FA" d="M30,34.5l5,5l5.7-4.9l-5.5-5.7L30,34.5z M37.8,34.6L35.5,37l-2.6-2.7l2.6-2.4L37.8,34.6z"/>
+<polygon fill="#F5F5FA" points="28,23.7 23.7,27.5 19.8,23.4 15.5,27.6 19.4,31.7 23.6,28.3 28,31.9 32.2,28 "/>
+<path fill="#F5F5FA" d="M17.2,21.8l-4.6-5.4l-5.2,4.9l5.2,5.3L17.2,21.8z M9.8,21.2l2.6-2.5l2.4,2.7l-2.4,2.4L9.8,21.2z"/>
+<path fill="#F5F5FA" d="M7,33.9l5,5l5.7-4.9l-5.6-5.7L7,33.9z M14.8,34l-2.4,2.4l-2.6-2.6l2.6-2.5L14.8,34z"/>
+<path fill="#F5F5FA" d="M109,22.5l-5.3-5.4L98.3,22l5.8,5.3L109,22.5z M101.3,21.7l2.6-2.5l2.4,2.8l-2.4,2.4L101.3,21.7z"/>
+<path fill="#F5F5FA" d="M98.2,34.8l5.5,5.1l5-5.6l-5.2-4.9L98.2,34.8z M103.4,37l-2.6-2.7l2.6-2.4l2.3,2.7L103.4,37z"/>
+<polygon fill="#F5F5FA" points="1490.3,32.2 1486.1,35.9 1482.1,31.8 1477.9,36 1481.7,40.1 1486,36.7 1490.3,40.4 1494.5,36.4 "/>
+<path fill="#F5F5FA" d="M1479.5,30.2l-4.6-5.4l-5.1,4.9l5.1,5.3L1479.5,30.2z M1472.2,29.6l2.6-2.5l2.3,2.7l-2.3,2.5L1472.2,29.6z"
+	/>
+<path fill="#F5F5FA" d="M1469.3,42.3l5.1,5.1l5.7-5l-5.6-5.7L1469.3,42.3z M1477.1,42.4l-2.3,2.5l-2.6-2.7l2.6-2.5L1477.1,42.4z"/>
+<polygon fill="#F5F5FA" points="1467.9,32.2 1463.6,35.9 1459.7,31.8 1455.4,36 1459.2,40.1 1463.5,36.7 1467.9,40.4 1472,36.4 "/>
+<path fill="#F5F5FA" d="M1457,30.2l-4.5-5.4l-5.2,4.9l5.2,5.3L1457,30.2z M1449.7,29.6l2.6-2.5l2.3,2.7l-2.3,2.5L1449.7,29.6z"/>
+<path fill="#F5F5FA" d="M1446.9,42.3l5,5.1l5.7-5l-5.6-5.7L1446.9,42.3z M1454.6,42.4l-2.3,2.5l-2.6-2.7l2.6-2.5L1454.6,42.4z"/>
+<polygon fill="#F5F5FA" points="1444.9,32.2 1440.6,35.9 1436.7,31.8 1432.4,36 1436.2,40.1 1440.5,36.7 1444.9,40.4 1449,36.4 "/>
+<path fill="#F5F5FA" d="M1434,30.2l-4.6-5.4l-5.1,4.9l5.1,5.3L1434,30.2z M1426.7,29.6l2.6-2.5l2.3,2.7l-2.3,2.5L1426.7,29.6z"/>
+<path fill="#F5F5FA" d="M1423.9,42.3l5,5.1l5.7-5l-5.6-5.7L1423.9,42.3z M1431.6,42.4l-2.3,2.5l-2.6-2.7l2.6-2.5L1431.6,42.4z"/>
+<polygon fill="#F5F5FA" points="1421.9,31.6 1417.6,35.3 1413.7,31.3 1409.4,35.4 1413.2,39.6 1417.5,36.2 1421.9,39.8 1426,35.9 
+	"/>
+<polygon fill="#F5F5FA" points="1399,30.9 1394.7,34.6 1390.8,30.6 1386.5,34.7 1390.3,38.9 1394.6,35.5 1399,39.1 1403.1,35.2 "/>
+<path fill="#F5F5FA" d="M1411,29.6l-4.6-5.3l-5.1,4.9l5.1,5.2L1411,29.6z M1403.7,29.1l2.6-2.5l2.3,2.7l-2.3,2.4L1403.7,29.1z"/>
+<path fill="#F5F5FA" d="M1400.9,41.8l5,5l5.7-4.9l-5.6-5.7L1400.9,41.8z M1408.6,41.9l-2.3,2.4l-2.6-2.6l2.6-2.5L1408.6,41.9z"/>
+<path fill="#F5F5FA" d="M1492.2,29.9l5.8,5.3l4.8-4.8l-5.2-5.5L1492.2,29.9z M1500.1,29.8l-2.3,2.5l-2.6-2.7l2.6-2.5L1500.1,29.8z"
+	/>
+<path fill="#F5F5FA" d="M1492.1,42.7l5.5,5.1l5-5.6l-5.3-4.9L1492.1,42.7z M1497.2,44.9l-2.6-2.7l2.6-2.5l2.4,2.7L1497.2,44.9z"/>
+<polygon fill="#F5F5FA" points="1376.6,30.8 1372.4,34.5 1368.4,30.4 1364.2,34.6 1368,38.8 1372.3,35.4 1376.6,39 1380.8,35 "/>
+<path fill="#F5F5FA" d="M1365.8,28.8l-4.6-5.4l-5.1,5l5.1,5.2L1365.8,28.8z M1358.5,28.2l2.6-2.5l2.3,2.7l-2.3,2.5L1358.5,28.2z"/>
+<path fill="#F5F5FA" d="M1355.6,40.9l5.1,5.1l5.7-5l-5.6-5.6L1355.6,40.9z M1363.4,41l-2.3,2.5l-2.6-2.7l2.6-2.5L1363.4,41z"/>
+<polygon fill="#F5F5FA" points="1354.2,30.8 1349.9,34.5 1346,30.4 1341.7,34.6 1345.5,38.8 1349.8,35.4 1354.2,39 1358.3,35 "/>
+<path fill="#F5F5FA" d="M1343.4,28.8l-4.6-5.4l-5.2,5l5.2,5.2L1343.4,28.8z M1336,28.2l2.6-2.5l2.4,2.7l-2.4,2.5L1336,28.2z"/>
+<path fill="#F5F5FA" d="M1333.2,40.9l5,5.1l5.7-5l-5.6-5.6L1333.2,40.9z M1341,41l-2.4,2.5l-2.6-2.7l2.6-2.5L1341,41z"/>
+<polygon fill="#F5F5FA" points="1331.2,30.8 1326.9,34.5 1323,30.4 1318.7,34.6 1322.5,38.8 1326.8,35.4 1331.2,39 1335.3,35 "/>
+<path fill="#F5F5FA" d="M1320.3,28.8l-4.5-5.4l-5.2,5l5.2,5.2L1320.3,28.8z M1313,28.2l2.6-2.5l2.3,2.7l-2.3,2.5L1313,28.2z"/>
+<path fill="#F5F5FA" d="M1310.2,40.9l5,5.1l5.7-5l-5.6-5.6L1310.2,40.9z M1317.9,41l-2.3,2.5l-2.6-2.7l2.6-2.5L1317.9,41z"/>
+<polygon fill="#F5F5FA" points="1308.2,30.2 1303.9,33.9 1300,29.9 1295.7,34 1299.5,38.2 1303.8,34.8 1308.2,38.4 1312.3,34.5 "/>
+<polygon fill="#F5F5FA" points="1285.3,29.5 1281,33.2 1277.1,29.2 1272.8,33.4 1276.6,37.5 1280.9,34.1 1285.3,37.7 1289.4,33.8 
+	"/>
+<path fill="#F5F5FA" d="M1297.3,28.2l-4.6-5.3l-5.1,4.9l5.1,5.3L1297.3,28.2z M1290,27.7l2.6-2.5l2.3,2.7l-2.3,2.4L1290,27.7z"/>
+<path fill="#F5F5FA" d="M1287.2,40.4l5,5l5.7-4.9l-5.6-5.7L1287.2,40.4z M1294.9,40.5l-2.3,2.4l-2.6-2.6l2.6-2.5L1294.9,40.5z"/>
+<path fill="#F5F5FA" d="M1389.1,29l-5.2-5.5l-5.4,5l5.8,5.3L1389.1,29z M1381.5,28.2l2.6-2.5l2.3,2.7l-2.3,2.5L1381.5,28.2z"/>
+<path fill="#F5F5FA" d="M1378.4,41.3l5.5,5.1l5-5.6l-5.3-4.9L1378.4,41.3z M1383.6,43.5l-2.6-2.7l2.6-2.5l2.3,2.7L1383.6,43.5z"/>
+<polygon fill="#F5F5FA" points="1261.6,30.1 1257.3,33.8 1253.4,29.7 1249.1,33.9 1252.9,38.1 1257.2,34.7 1261.6,38.3 1265.7,34.3 
+	"/>
+<path fill="#F5F5FA" d="M1250.7,28.1l-4.5-5.4l-5.2,5l5.2,5.2L1250.7,28.1z M1243.4,27.5l2.6-2.5l2.3,2.7l-2.3,2.5L1243.4,27.5z"/>
+<path fill="#F5F5FA" d="M1240.6,40.2l5,5.1l5.7-4.9l-5.6-5.7L1240.6,40.2z M1248.3,40.3l-2.3,2.5l-2.6-2.7l2.6-2.5L1248.3,40.3z"/>
+<polygon fill="#F5F5FA" points="1239.1,30.1 1234.8,33.8 1230.9,29.7 1226.6,33.9 1230.5,38.1 1234.7,34.7 1239.1,38.3 1243.3,34.3 
+	"/>
+<path fill="#F5F5FA" d="M1228.3,28.1l-4.6-5.4l-5.2,5l5.2,5.2L1228.3,28.1z M1221,27.5l2.6-2.5l2.3,2.7l-2.3,2.5L1221,27.5z"/>
+<path fill="#F5F5FA" d="M1218.1,40.2l5,5.1l5.7-4.9l-5.5-5.7L1218.1,40.2z M1225.9,40.3l-2.3,2.5l-2.6-2.7l2.6-2.5L1225.9,40.3z"/>
+<polygon fill="#F5F5FA" points="1216.1,30.1 1211.8,33.8 1207.9,29.7 1203.6,33.9 1207.5,38.1 1211.7,34.7 1216.1,38.3 1220.3,34.3 
+	"/>
+<path fill="#F5F5FA" d="M1205.3,28.1l-4.6-5.4l-5.2,5l5.2,5.2L1205.3,28.1z M1197.9,27.5l2.6-2.5l2.4,2.7l-2.4,2.5L1197.9,27.5z"/>
+<path fill="#F5F5FA" d="M1195.1,40.2l5,5.1l5.7-4.9l-5.6-5.7L1195.1,40.2z M1202.9,40.3l-2.4,2.5l-2.6-2.7l2.6-2.5L1202.9,40.3z"/>
+<polygon fill="#F5F5FA" points="1193.1,29.5 1188.8,33.2 1184.9,29.2 1180.6,33.4 1184.4,37.5 1188.7,34.1 1193.1,37.7 1197.2,33.8 
+	"/>
+<polygon fill="#F5F5FA" points="1170.2,29.8 1165.9,33.6 1162,29.5 1157.7,33.7 1161.6,37.8 1165.8,34.4 1170.2,38 1174.4,34.1 "/>
+<path fill="#F5F5FA" d="M1182.3,27.6l-4.6-5.4l-5.2,4.9l5.2,5.3L1182.3,27.6z M1174.9,27l2.6-2.5l2.4,2.7l-2.4,2.4L1174.9,27z"/>
+<path fill="#F5F5FA" d="M1172.1,39.7l5,5l5.7-4.9l-5.6-5.7L1172.1,39.7z M1179.9,39.8l-2.4,2.4l-2.6-2.6l2.6-2.5L1179.9,39.8z"/>
+<path fill="#F5F5FA" d="M1274,28.3l-5.2-5.4l-5.4,4.9l5.8,5.3L1274,28.3z M1266.4,27.5l2.6-2.5l2.3,2.7l-2.3,2.5L1266.4,27.5z"/>
+<path fill="#F5F5FA" d="M1263.3,40.6l5.5,5.1l5-5.6l-5.2-4.9L1263.3,40.6z M1268.5,42.8l-2.6-2.7l2.6-2.5l2.3,2.7L1268.5,42.8z"/>
+<polygon fill="#F5F5FA" points="1147.9,29.7 1143.6,33.4 1139.7,29.4 1135.4,33.5 1139.2,37.7 1143.5,34.3 1147.9,37.9 1152,34 "/>
+<path fill="#F5F5FA" d="M1137.1,27.7l-4.6-5.3l-5.2,4.9l5.2,5.2L1137.1,27.7z M1129.7,27.1l2.6-2.5l2.3,2.8l-2.3,2.4L1129.7,27.1z"
+	/>
+<path fill="#F5F5FA" d="M1126.9,39.9l5,5l5.7-4.9l-5.6-5.7L1126.9,39.9z M1134.6,40l-2.3,2.4l-2.6-2.7l2.6-2.4L1134.6,40z"/>
+<polygon fill="#F5F5FA" points="1125.4,29.7 1121.2,33.4 1117.2,29.4 1113,33.5 1116.8,37.7 1121,34.3 1125.4,37.9 1129.6,34 "/>
+<path fill="#F5F5FA" d="M1114.6,27.7l-4.6-5.3l-5.1,4.9l5.1,5.2L1114.6,27.7z M1107.3,27.1l2.6-2.5l2.3,2.8l-2.3,2.4L1107.3,27.1z"
+	/>
+<path fill="#F5F5FA" d="M1104.4,39.9l5.1,5l5.6-4.9l-5.5-5.7L1104.4,39.9z M1112.2,40l-2.3,2.4l-2.6-2.7l2.6-2.4L1112.2,40z"/>
+<polygon fill="#F5F5FA" points="1102.4,29.7 1098.1,33.4 1094.2,29.4 1089.9,33.5 1093.8,37.7 1098,34.3 1102.4,37.9 1106.6,34 "/>
+<path fill="#F5F5FA" d="M1091.6,27.7l-4.6-5.3l-5.2,4.9l5.2,5.2L1091.6,27.7z M1084.3,27.1l2.6-2.5l2.3,2.8l-2.3,2.4L1084.3,27.1z"
+	/>
+<path fill="#F5F5FA" d="M1081.4,39.9l5,5l5.7-4.9l-5.5-5.7L1081.4,39.9z M1089.2,40l-2.3,2.4l-2.6-2.7l2.6-2.4L1089.2,40z"/>
+<polygon fill="#F5F5FA" points="1079.4,29.1 1075.1,32.9 1071.2,28.8 1066.9,33 1070.8,37.1 1075,33.7 1079.4,37.3 1083.6,33.4 "/>
+<polygon fill="#F5F5FA" points="1056.5,28.4 1052.3,32.2 1048.3,28.1 1044.1,32.3 1047.9,36.4 1052.1,33 1056.5,36.6 1060.7,32.7 
+	"/>
+<path fill="#F5F5FA" d="M1068.6,27.2l-4.6-5.4l-5.2,4.9l5.2,5.3L1068.6,27.2z M1061.2,26.6l2.6-2.5l2.4,2.7l-2.4,2.4L1061.2,26.6z"
+	/>
+<path fill="#F5F5FA" d="M1058.4,39.3l5,5l5.7-4.9l-5.6-5.7L1058.4,39.3z M1066.2,39.4l-2.4,2.4l-2.6-2.6l2.6-2.5L1066.2,39.4z"/>
+<path fill="#F5F5FA" d="M1160.4,27.9l-5.3-5.4l-5.4,4.9l5.8,5.3L1160.4,27.9z M1152.7,27.1l2.6-2.5l2.4,2.8l-2.4,2.4L1152.7,27.1z"
+	/>
+<path fill="#F5F5FA" d="M1149.6,40.2l5.5,5.1l5-5.6l-5.2-4.9L1149.6,40.2z M1154.8,42.4l-2.6-2.7l2.6-2.4l2.3,2.7L1154.8,42.4z"/>
+<polygon fill="#F5F5FA" points="1031.6,29.1 1027.3,32.8 1023.4,28.7 1019.1,32.9 1022.9,37.1 1027.2,33.7 1031.6,37.3 1035.7,33.3 
+	"/>
+<path fill="#F5F5FA" d="M1020.7,27.1l-4.5-5.4l-5.2,5l5.2,5.2L1020.7,27.1z M1013.4,26.5l2.6-2.5l2.3,2.7l-2.3,2.5L1013.4,26.5z"/>
+<path fill="#F5F5FA" d="M1010.6,39.2l5,5.1l5.7-4.9l-5.6-5.7L1010.6,39.2z M1018.3,39.3l-2.3,2.5l-2.6-2.7l2.6-2.5L1018.3,39.3z"/>
+<polygon fill="#F5F5FA" points="1009.1,29.1 1004.8,32.8 1000.9,28.7 996.6,32.9 1000.5,37.1 1004.7,33.7 1009.1,37.3 1013.3,33.3 
+	"/>
+<path fill="#F5F5FA" d="M998.3,27.1l-4.6-5.4l-5.2,5l5.2,5.2L998.3,27.1z M991,26.5l2.6-2.5l2.3,2.7l-2.3,2.5L991,26.5z"/>
+<path fill="#F5F5FA" d="M988.1,39.2l5,5.1l5.7-4.9l-5.5-5.7L988.1,39.2z M995.9,39.3l-2.3,2.5l-2.6-2.7l2.6-2.5L995.9,39.3z"/>
+<polygon fill="#F5F5FA" points="986.1,29.1 981.8,32.8 977.9,28.7 973.6,32.9 977.5,37.1 981.7,33.7 986.1,37.3 990.3,33.3 "/>
+<path fill="#F5F5FA" d="M975.3,27.1l-4.6-5.4l-5.2,5l5.2,5.2L975.3,27.1z M967.9,26.5l2.6-2.5l2.4,2.7l-2.4,2.5L967.9,26.5z"/>
+<path fill="#F5F5FA" d="M965.1,39.2l5,5.1l5.7-4.9l-5.6-5.7L965.1,39.2z M972.9,39.3l-2.4,2.5l-2.6-2.7l2.6-2.5L972.9,39.3z"/>
+<polygon fill="#F5F5FA" points="963.1,28.5 958.8,32.2 954.9,28.2 950.6,32.4 954.4,36.5 958.7,33.1 963.1,36.7 967.2,32.8 "/>
+<polygon fill="#F5F5FA" points="940.2,27.8 935.9,31.6 932,27.5 927.7,31.7 931.6,35.8 935.8,32.4 940.2,36 944.4,32.1 "/>
+<path fill="#F5F5FA" d="M952.3,26.6l-4.6-5.4l-5.2,4.9l5.2,5.3L952.3,26.6z M944.9,26l2.6-2.5l2.4,2.7l-2.4,2.4L944.9,26z"/>
+<path fill="#F5F5FA" d="M942.1,38.7l5,5l5.7-4.9l-5.6-5.7L942.1,38.7z M949.9,38.8l-2.4,2.4l-2.6-2.6l2.6-2.5L949.9,38.8z"/>
+<path fill="#F5F5FA" d="M1033.4,26.8l5.8,5.3l4.8-4.8l-5.2-5.4L1033.4,26.8z M1041.3,26.7l-2.3,2.5l-2.6-2.7l2.6-2.5L1041.3,26.7z"
+	/>
+<path fill="#F5F5FA" d="M1033.3,39.6l5.5,5.1l5-5.6l-5.2-4.9L1033.3,39.6z M1038.5,41.8l-2.6-2.7l2.6-2.5l2.3,2.7L1038.5,41.8z"/>
+<polygon fill="#F5F5FA" points="917.9,27.7 913.6,31.4 909.7,27.4 905.4,31.5 909.2,35.7 913.5,32.3 917.9,35.9 922,32 "/>
+<path fill="#F5F5FA" d="M907.1,25.7l-4.6-5.3l-5.2,4.9l5.2,5.2L907.1,25.7z M899.7,25.1l2.6-2.5l2.3,2.8l-2.3,2.4L899.7,25.1z"/>
+<path fill="#F5F5FA" d="M896.9,37.9l5,5l5.7-4.9l-5.6-5.7L896.9,37.9z M904.6,38l-2.3,2.4l-2.6-2.7l2.6-2.4L904.6,38z"/>
+<polygon fill="#F5F5FA" points="895.4,27.7 891.2,31.4 887.2,27.4 883,31.5 886.8,35.7 891,32.3 895.4,35.9 899.6,32 "/>
+<path fill="#F5F5FA" d="M884.6,25.7l-4.6-5.3l-5.1,4.9l5.1,5.2L884.6,25.7z M877.3,25.1l2.6-2.5l2.3,2.8l-2.3,2.4L877.3,25.1z"/>
+<path fill="#F5F5FA" d="M874.4,37.9l5.1,5l5.6-4.9l-5.5-5.7L874.4,37.9z M882.2,38l-2.3,2.4l-2.6-2.7l2.6-2.4L882.2,38z"/>
+<polygon fill="#F5F5FA" points="872.4,27.7 868.1,31.4 864.2,27.4 859.9,31.5 863.8,35.7 868,32.3 872.4,35.9 876.6,32 "/>
+<path fill="#F5F5FA" d="M861.6,25.7l-4.6-5.3l-5.2,4.9l5.2,5.2L861.6,25.7z M854.3,25.1l2.6-2.5l2.3,2.8l-2.3,2.4L854.3,25.1z"/>
+<path fill="#F5F5FA" d="M851.4,37.9l5,5l5.7-4.9l-5.5-5.7L851.4,37.9z M859.2,38l-2.3,2.4l-2.6-2.7l2.6-2.4L859.2,38z"/>
+<polygon fill="#F5F5FA" points="849.4,27.1 845.1,30.9 841.2,26.8 836.9,31 840.8,35.1 845,31.7 849.4,35.3 853.6,31.4 "/>
+<path fill="#F5F5FA" d="M838.6,25.2l-4.6-5.4l-5.2,4.9L834,30L838.6,25.2z M831.2,24.6l2.6-2.5l2.4,2.7l-2.4,2.4L831.2,24.6z"/>
+<path fill="#F5F5FA" d="M828.4,37.3l5,5l5.7-4.9l-5.6-5.7L828.4,37.3z M836.2,37.4l-2.4,2.4l-2.6-2.6l2.6-2.5L836.2,37.4z"/>
+<path fill="#F5F5FA" d="M930.4,25.9l-5.3-5.4l-5.4,4.9l5.8,5.3L930.4,25.9z M922.7,25.1l2.6-2.5l2.4,2.8l-2.4,2.4L922.7,25.1z"/>
+<path fill="#F5F5FA" d="M919.6,38.2l5.5,5.1l5-5.6l-5.2-4.9L919.6,38.2z M924.8,40.4l-2.6-2.7l2.6-2.4l2.3,2.7L924.8,40.4z"/>
 </svg>

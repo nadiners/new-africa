@@ -8,6 +8,7 @@ ul li{list-style: none;}
 body{
 	font-family: "ratio-display", sans-serif;
 	background-color: #fffef8;
+	color: #202428;
 	/*font-family: "Alef Hebrew"*/
 }
 
@@ -42,11 +43,6 @@ body{
 	width: 65%;
 }
 
-
-.icon-exhib a img: hover{
-	background-image: url(../images/icons/exhibitions-lava-hover.svg);
-}
-
 .languages li a{
 	background-color: #FF6200;
 	color: white;
@@ -78,7 +74,7 @@ body{
 .when-on{
 	font-size: 32px;
 /*	border-bottom: 2px solid #FF6200;
-*/	color:  #FF6200;
+*/	color:  #f5f5fa;
 	padding-bottom: 5px;
 	margin-bottom: 70px;
 	margin-top: 100px;
@@ -99,19 +95,23 @@ body{
 	margin-bottom: 10px;
 }
 .brief-description{
+	font-size: 16px; 	
+	height: 100px;
+}
+.brief-description-now{
 	font-size: 18px; 	
 }
 
 .read-more a{
 	background-image: url("../images/icons/triangle.svg");
 	background-repeat: repeat;
+	background-color: rgba(255,98,0,.8); 
 	text-decoration: none;
 	padding-top:7px;
 	padding-bottom: 7px;	
 	padding-left:20px;
 	padding-right: 20px; 
 	color: white;
-	background-color: rgba(255,98,0,.8); 
 	
 }
 .read-more{
@@ -128,14 +128,13 @@ body{
 
 
 .title-exhib{
-	font-size: 20px;
+	font-size: 22px;
     margin-bottom: 15px;
     color: #FF6200;
     font-weight: 900;
     text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.07em;
 	line-height: 1.3em;
-
 }
 
 .title-main-exhib{
@@ -218,13 +217,14 @@ margin-top: -10px;
 	color: #CE7126; 
 }
 .about-text{
-
+	color: #202428;
 }
+
 .about-main{
 	padding: 18px;
 	line-height: 1.3em;
 /*	width: 20%;*/
-	color: black;
+	color: white;
 	/*background-color: #FF6200;*/
 	font-size: 24px;
 	font-family: "skolar-sans-latin",sans-serif;
@@ -261,7 +261,6 @@ margin-top: -10px;
 }
 .news{
 	margin-top: 50px;
-	background-color: white;
 }
 
 .news-title{
@@ -275,19 +274,30 @@ margin-top: -10px;
 .news-summary{}
 
 
-footer{
+footer{	background-image: url("../images/icons/triangle.svg");
+	background-repeat: repeat;
+	background-color: rgba(255,98,0,.8); 
 	margin-top: 100px;
 	}
 
 .address{
+	color: #f5f5fa;
 	margin: auto;
 	max-width: 80%;
-	height: 100px;
-	font-size: 18px;
-	margin-bottom: 150px;
+	font-size: 16px;
+	padding-top: 50px;
 }
 
+.status-footer{
+	color: #f5f5fa;
+	font-weight: 900;
+	font-size: 18px;
+}
 
+.map iframe{margin-top: 50px;
+margin-right: 0;
+margin-left: 0;
+margin-bottom: 0;}
 /* ==========================================================================
    Media queries
    ========================================================================== */
