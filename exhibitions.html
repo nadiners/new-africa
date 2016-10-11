@@ -1,136 +1,262 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="css/main-layout.css">
-<link rel="stylesheet" href="css/main.css">
-<link rel="stylesheet" href="css/exhibitions.css">
-<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
-<!-- Latest compiled and minified JavaScript -->
-<script src="js/jquery-3.1.0.min.js"></script>
-<script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
-<script src="https://use.typekit.net/mqu4vxc.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta charset="UTF-8">
-	<title>African Studies Gallery</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main-layout.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/exhibitions.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="js/jquery-3.1.0.min.js"></script>
+    <script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+    <script src="https://use.typekit.net/mqu4vxc.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+    <script>try {Typekit.load({async: true});}catch (e) {}</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>African Studies Gallery</title>
 </head>
+
 <body>
+    <header>
+    
+    </header>
+    <div class="row navline">
+        <!-- note: parallax here -->
+        <ul class="col-sm-11 navbar">
+            <li class="logo">
+                <a href="index.html">
+				         <img src="images/icons/combshape.svg">
+                </a>
+            </li>
+            <li class="icon-exhib">
+                <a href="exhibitions.html">Exhibitions</a>
+            </li>
+            <li>
+                <a href="events.html">Events</a>
+            </li>
+            <li>
+                <a href="news.html">News</a>
+            </li>
+            <li>
+                <a href="about.html">About Us</a>
+            </li>
+            <li>
+                <a href="#contact">Contact</a>
+            </li>
+        </ul>
+        <ul class="col-sm-1 languages">
+            <li class="english">
+                <a href="">English</a>
+            </li>
+            <li class="hebrew-font hebrew">
+                <a href="">עברית</a>
+            </li>
+        </ul>
+    </div>
+    <!-- end of navline -->
+    <div class="container-fluid">        
+        <h2 class="now-on">
+			<span class="section-titles">currently on</span>
+		</h2>
+        <div class="row landing-about">
+            <div class="col-sm-8">
+                <img src="images/kinshasa.png" width="100%">
+                <h2 class="exhi-date">August - December 2016</h2>
+            </div>
+            <div class="col-sm-4">
+                <h1 class="title-main-exhib">Kinshasa Times</h1>
+                <p class="brief-description-now">This exhibition is of urban art, produced by self-taught artists, mainly from Kinshasa. During the past decade both museums and art markets have shown a growing interest in contemporary African art. But what does ‘contemporary African art’ mean in this context?...
+                </p>
+                <div class="read-more"><a href="kinshasa.html">read more</a></div>
+                <div class="read-more">
+                    <a href="">share</a>
+                </div>
+            </div>
+            <!-- end of col-sm-4 -->
+        </div>
+        <!-- end of row -->
+        <h1 class="when-on">
+	<span class="section-titles">past exhibitions</span>
+</h1>
+        <div class="row row-exhibitions">
+            <div class="col-sm-4 main-box">
+                <img src="images/backtoearth.png" width="100%">
+                <h2 class="exhi-date">August - December 2016</h2>
+                <h1 class="title-exhib">Back to Earth</h1>
+                <div class="read-more"><a href="">read more</a></div>
+            </div>
+            <!-- end of col-sm-4 -->
+            <div class="col-sm-4 main-box">
+                <img src="images/otot.png" width="100%">
+                <h2 class="exhi-date">August - December 2016</h2>
+                <h1 class="title-exhib">OTOT: Daring to defy Cultural Constructions</h1>
+                <div class="read-more"><a href="">read more</a></div>
+            </div>
+            <!-- end of col-sm-4 -->
+            <div class="col-sm-4 main-box">
+                <img src="images/lavaalmas.png" width="100%">
+                <h2 class="exhi-date">August - December 2016</h2>
+                <h1 class="title-exhib">Lava Almas</h1>
+                <div class="read-more"><a href="">read more</a></div>
+           </div>
+            <!-- end of col-sm-4 -->
+        </div><!-- end of row -->
 
-	<header>
-<div class="row navline">
-				<a href="index.html">
-				<div class="col-sm-3" class="logo">
-				 <img src="images/logo.svg">
-				</div>
+              <div class="row row-exhibitions">
+            <div class="col-sm-4 main-box">
+                <img src="images/backtoearth.png" width="100%">
+                <h2 class="exhi-date">August - December 2016</h2>
+                <h1 class="title-exhib">Back to Earth</h1>
+                <div class="read-more"><a href="">read more</a></div>
+            </div>
+            <!-- end of col-sm-4 -->
+            <div class="col-sm-4 main-box">
+                <img src="images/otot.png" width="100%">
+                <h2 class="exhi-date">August - December 2016</h2>
+                <h1 class="title-exhib">OTOT: Daring to defy Cultural Constructions</h1>
+                <div class="read-more"><a href="">read more</a></div>
+            </div>
+            <!-- end of col-sm-4 -->
+            <div class="col-sm-4 main-box">
+                <img src="images/lavaalmas.png" width="100%">
+                <h2 class="exhi-date">August - December 2016</h2>
+                <h1 class="title-exhib">Lava Almas</h1>
+                <div class="read-more"><a href="">read more</a></div>
+           </div>
+            <!-- end of col-sm-4 -->
+        </div><!-- end of row -->
+
+          <div class="row row-exhibitions">
+            <div class="col-sm-4 main-box">
+                <img src="images/backtoearth.png" width="100%">
+                <h2 class="exhi-date">August - December 2016</h2>
+                <h1 class="title-exhib">Back to Earth</h1>
+                <div class="read-more"><a href="">read more</a></div>
+            </div>
+            <!-- end of col-sm-4 -->
+            <div class="col-sm-4 main-box">
+                <img src="images/otot.png" width="100%">
+                <h2 class="exhi-date">August - December 2016</h2>
+                <h1 class="title-exhib">OTOT: Daring to defy Cultural Constructions</h1>
+                <div class="read-more"><a href="">read more</a></div>
+            </div>
+            <!-- end of col-sm-4 -->
+            <div class="col-sm-4 main-box">
+                <img src="images/lavaalmas.png" width="100%">
+                <h2 class="exhi-date">August - December 2016</h2>
+                <h1 class="title-exhib">Lava Almas</h1>
+                <div class="read-more"><a href="">read more</a></div>
+           </div>
+            <!-- end of col-sm-4 -->
+        </div><!-- end of row -->
+        <!-- end of row past exhbitions-->
+        <div class="row see-all">
+            <a href="exhibitions.html">	
+                    <p>back to main page  <img src="images/icons/arrow.svg"></p>                  
 				</a>
-		<ul class="col-sm-8 navbar">
-			<li>
-				<a href="exhibitions.html">
-				<img src="images/icons/exhibitions-lava.svg"><br>Exhibitions</a>
-			</li>
-			<li>
-				<a href="events.html">
-				<img src="images/icons/events-fish.svg"><br>Events</a>
-			</li>
-			<li>
-				<a href="news.html">
-				<img src="images/icons/news-jar.svg"><br>News</a>
-			</li>
-			<li>
-				<a href="about.html">
-				<img src="images/icons/about-mask.svg"><br>About Us</a>
-			</li>
-			<li>
-				<a href="#contact">
-				<img src="images/icons/contact-bird.svg"><br>Contact</a>
-			</li>
-		</ul>
+        </div>
+       
+    <!-- end of main container -->
+    <footer id="contact">
+        <div class="address">
+            <div class="col-sm-3">
+                <p class="status-footer">address</p>
+                The African Studies Gallery
+                <br>Alrov Tower, floor 22
+                <br>46 Rothschild Boulevard
+                <br>Tel Aviv, 66883
+            </div>
+            <div class="col-sm-3">
+                <p class="status-footer">contact</p>
+                T: +972 729 2100
+                <br>idit@africanstudiesgallery.org
+                <br>
+                <a href="https://www.facebook.com/africanstudiesgallery" target="_blank"><img src="images/icons/facebook-logo.svg" width="20px"></a>
+                <a href="https://vimeo.com/user24082369"><img src="images/icons/vimeo-logo.svg" width="20px"></a>
+            </div>
+            <div class="col-sm-3">
+                <p class="status-footer">curator</p>
+                <p>Idit Toledano</p>
+            </div>
+            <div class="col-sm-3">
+                <a href="#">
+<!-- <img src="images/icons/contact-bird-up.svg" alt="">--> 
+<svg width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<path id="inbird" fill="#FFFFFF" d="M87.2,46.8c-0.9-0.3-2.7-0.9-4-2.3l-0.1-0.1L83,44.3c-1.3-3.3-7-2-7.9-1.8c-1.8,1.3-4.8,3.3-6.2,2.8
+    c-0.3-0.2-0.7-0.5-0.7-1.3c0-0.5,0.2-1.1,0.5-1.9c0.3-0.7,0.5-1.3,0.5-1.8c0-2.5-3.9-2.7-3.9-2.7c-0.5,0-46.7-0.2-48.1-0.2
+    c-0.6,0-0.8,0.1-0.8,0.1s-0.1,0.2-0.1,0.9c0.5,0.3,2.5,0.5,3.7,0.6c2.7,0.2,4.8,0.4,4.9,1.7c0.4,0.3,1.9,0.4,2.8,0.5
+    c2.1,0.2,4.1,0.4,4.1,1.8v0.1c0.2,0.1,0.8,0.2,1.2,0.2c0.9,0.1,2.5,0.2,2.5,1.6V45c0.1,0.2,1.4,0.5,2,0.6c1.3,0.2,2.6,0.5,2.8,1.5
+    c0.3,0.1,1.1,0.2,1.6,0.2c1.3,0.1,2.8,0.2,2.8,1.4c0.4,0.3,2,0.6,3.5,0.7l7,0.4l-10.8,1.7l-4.8,2h-0.1c-4.5,1.2-19.2,5.4-20.3,5.4
+    c-0.7,0-3.9,0.1-5.8,0.2l2.2,1.1l-1.1,1.2l3-0.4c2.3-0.2,55-5,58.2-5c2.1,0,6-4.2,8-6.8l0.2-0.3h0.4c2.3,0.1,4.8,0.1,6.4,0
+    c-1.2-0.8-2.8-1.9-3.2-2C87.4,46.9,87.3,46.8,87.2,46.8z"/>
+<g>
+    <path fill="#FF6200" d="M93.2,49.9L93,50.1c-0.3,0.2-0.5,0.5-8.4,0.4c-1.2,1.4-5.8,7-9,7s-57.5,5-58,5l-7.1,0.9l2.6-2.8l-4.7-2.5
+        l3.4-0.5h0.1c0.2,0,6.2-0.3,7.3-0.3c1-0.1,12.7-3.4,19.9-5.4L44,50h0.2c-0.5-0.3-0.8-0.6-0.9-1.1c-0.3-0.1-1-0.2-1.4-0.2
+        c-1.3-0.1-2.7-0.2-2.9-1.4c-0.2-0.1-1.1-0.3-1.6-0.4c-1.5-0.2-3.2-0.6-3.2-2v-0.1c-0.2-0.1-0.8-0.2-1.2-0.2
+        c-0.9-0.1-2.5-0.2-2.5-1.6l0,0c-0.4-0.3-1.9-0.4-2.8-0.5c-2-0.2-4-0.4-4.1-1.7c-0.5-0.3-2.4-0.5-3.6-0.6c-2.9-0.2-5.1-0.4-5.1-1.9
+        c0-2,0.5-2.6,2.4-2.6c1.4,0,47.6,0.2,48.1,0.2c1.8,0.1,5.3,1.1,5.3,4.2c0,0.7-0.2,1.5-0.6,2.4c-0.3,0.7-0.4,1-0.4,1.2
+        c0.7-0.1,2.8-1.2,4.7-2.6l0.1-0.1h0.1c0.3-0.1,7.8-2.1,9.7,2.5c1.1,1,2.6,1.6,3.3,1.8c0.1,0,0.2,0.1,0.3,0.1c0.5,0.2,2,1.2,2.8,1.7
+        c2.5,1.7,2.5,1.9,2.5,2.3V49.9z M68.9,45.3c-0.3-0.2-0.7-0.5-0.7-1.3c0-0.5,0.2-1.1,0.5-1.9c0.3-0.7,0.5-1.3,0.5-1.8
+        c0-2.5-3.9-2.7-3.9-2.7c-0.5,0-46.7-0.2-48.1-0.2c-0.6,0-0.8,0.1-0.8,0.1s-0.1,0.2-0.1,0.9c0.5,0.3,2.5,0.5,3.7,0.6
+        c2.7,0.2,4.8,0.4,4.9,1.7c0.4,0.3,1.9,0.4,2.8,0.5c2.1,0.2,4.1,0.4,4.1,1.8v0.1c0.2,0.1,0.8,0.2,1.2,0.2c0.9,0.1,2.5,0.2,2.5,1.6
+        l0,0V45c0.1,0.2,1.4,0.5,2,0.6c1.3,0.2,2.6,0.5,2.8,1.5c0.3,0.1,1.1,0.2,1.6,0.2c1.3,0.1,2.8,0.2,2.8,1.4c0.4,0.3,2,0.6,3.5,0.7
+        l7,0.4l-10.8,1.7l-4.8,2h-0.1c-4.5,1.2-19.2,5.4-20.3,5.4c-0.7,0-3.9,0.1-5.8,0.2l2.2,1.1l-1.1,1.2l3-0.4c2.3-0.2,55-5,58.2-5
+        c2.1,0,6-4.2,8-6.8l0.2-0.3h0.4c2.3,0.1,4.8,0.1,6.4,0c-1.2-0.8-2.8-1.9-3.2-2c-0.1,0-0.2-0.1-0.3-0.1c-0.9-0.3-2.7-0.9-4-2.3
+        l-0.1-0.1L83,44.3c-1.3-3.3-7-2-7.9-1.8C73.3,43.8,70.3,45.8,68.9,45.3z"/>
+</g>
+</svg>
 
-		<ul class="col-sm-1 languages">
-			<li class="english"> <a href="">English</a></li>
-			<li class="hebrew-font hebrew"><a href="">עברית</a></li>
-		</ul>
-</div> <!-- end of navline -->
 
-<div class="container-fluid">
+               </a>
+            </div>
+        </div>
 
-<!-- 	<div class="row landing-about">
-		<div class="col-sm-4 description">
-		<p class="about-main">The African Studies Gallery is a unique exhibition space, focusing on exhibiting and examining African art, the gallery is a not-for-profit organisation that aspires to examine African Art in a modern context.</p></div>
-		<div class="col-sm-8"><img src="images/galleryspace.jpg"  width="100%"></div>
-	</div>
- -->
-	<h2 class="when-on">Now On</h2>	
-	<div class="row landing-about">
-		<div class="col-sm-8">
-			<img src="images/kinshasa.png"  width="100%">		
-		</div>
-		<div class="col-sm-4">			
-			<h3 class="categories-small">
-				<span>Exhibitions</span>
-				<div class="thin-line"></div>
-			</h3>
-			<h1 class="title-main-exhib">Kinshasa Times</h1>
-			<h2 class="exhi-date">August - December 2016</h2>
-			<p class="brief-description">This exhibition is of urban art, produced by self-taught artists, mainly from Kinshasa. During the past decade both museums and art markets have shown a growing interest in contemporary African art. But what does ‘contemporary African art’ mean in this context?...
-			</p>
-			<div class="read-more"><a href="kinshasa.html">read more</a></div>
-			<div class="read-more"><a href="">share</a></div>
+    </footer>
+    <script>
+    var jumboHeight = $('.jumbotron').outerHeight();
 
-		</div> <!-- end of col-sm-4 -->
-	</div> <!-- end of row -->
+    function parallax() {
+        var scrolled = $(window).scrollTop();
+        $('.bg').css('height', (jumboHeight - scrolled) + 'px');
+    }
 
-<h1 class="when-on">Past Exhibitions</h1>
-<div class="row past-exhibitions">
-<div class="col-sm-4">
-<img src="images/backtoearth.png"  width="100%">				
-			<h3 class="categories-small">
-				<span>Exhibitions</span>
-				<div class="thin-line"></div>
-			</h3>
-			<h1 class="title-exhib">Back to Earth</h1>
-			<h2 class="exhi-date">August - December 2016</h2>
-			<p class="brief-description">This is a unique collaboration between Israeli artist Roy Mayan, and the Senegalese artist Daouda N’Diaye...
-			</p>
-			<div class="read-more"><a href="">read more</a></div>
-		</div> <!-- end of col-sm-4 -->
+    $(window).scroll(function(e) {
+        parallax();
+    });
+    </script>
+    <script>
+    // taken from this website: http://codepen.io/senff/pen/ayGvD?editors=1010
+		// Create a clone of the navline, right next to original.
+		$('.navline').addClass('original').clone().insertAfter('.navline').addClass('cloned').css('position','fixed').css('top','0').css('margin-top','0').css('z-index','500').css('font-size','1em').removeClass('original').hide();
 
-	<div class="col-sm-4">	
-	<img src="images/otot.png"  width="100%">			
-			<h3 class="categories-small">
-				<span>Exhibitions</span>
-				<div class="thin-line"></div>
-			</h3>
-			<h1 class="title-exhib">OTOT: Daring to defy Cultural Constructions</h1>
-			<h2 class="exhi-date">August - December 2016</h2>
-			<p class="brief-description">In the cultural practices of both the Mende and Jewish peoples
-the artifacts presented in this exhibition are associated with the process of transforming young girls into women
-			</p>
-			<div class="read-more"><a href="">read more</a></div>
-		</div> <!-- end of col-sm-4 -->
-		
-	<div class="col-sm-4">	
-	<img src="images/lavaalmas.png"  width="100%">			
-			<h3 class="categories-small">
-				<span>Exhibitions</span>
-				<div class="thin-line"></div>
-			</h3>
-			<h1 class="title-exhib">Lava Almas</h1>
-			<h2 class="exhi-date">August - December 2016</h2>
-			<p class="brief-description">‘If you really want to live your life, to be part of the cultural happening, you must live in the big city, in Luanda’
-			</p>
-			<div class="read-more"><a href="">read more</a></div>
-		</div> <!-- end of col-sm-4 -->	
-	</div> <!-- end of row past exhbitions-->
+		scrollIntervalID = setInterval(stickIt, 10);
 
-		
-</div> <!-- end of main container -->
+		function stickIt() {
 
-<footer id="contact">
-<p>contact info</p>
-</footer>
+		  var orgElementPos = $('.original').offset();
+		  orgElementTop = orgElementPos.top;               
+
+		  if ($(window).scrollTop() >= (orgElementTop)) {
+		    // scrolled past the original position; now only show the cloned, sticky element.
+
+		    // Cloned element should always have same left position and width as original element.     
+		    orgElement = $('.original');
+		    coordsOrgElement = orgElement.offset();
+		    leftOrgElement = coordsOrgElement.left;  
+		    widthOrgElement = orgElement.css('width');
+		    $('.cloned').css('left',leftOrgElement+'px').css('top',0).css('width',widthOrgElement).show();
+		    $('.original').css('visibility','hidden');
+		  } else {
+		    // not scrolled past the menu; only show the original menu.
+		    $('.cloned').hide();
+		    $('.original').css('visibility','visible');
+		  }
+		}
+    </script>
 
 </body>
+
 </html>

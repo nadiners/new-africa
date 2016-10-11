@@ -1,3 +1,16 @@
+/*exhibitions page*/
+
+.now-on{
+	font-size: 45px;
+	font-style: italic;
+	font-weight: 200;
+	padding-bottom: 5px;
+	margin-bottom: 70px;
+	text-align: center;
+}
+
+/*individual exhibition pages*/
+
 .image-gallery{
 	background-color: #202428;
 }
@@ -6,7 +19,11 @@
 	max-width: 960px;
 	margin:auto;
 }
-
+.row-exhibitions{
+	padding-bottom: 80px;
+	max-width: 80%;
+	margin:auto;
+}
 .exhib-heading{
 	margin-top: -20px;
 	margin-bottom: 20px;
