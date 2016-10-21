@@ -12,7 +12,8 @@ body{
 	/*font-family: "Alef Hebrew"*/
 }
 .jumbotron{
-	padding-bottom: 0;} 
+	padding-bottom: 0;
+} 
 .notes{
 	color: #FF00E0;
 	font-size: 15px;
@@ -20,6 +21,7 @@ body{
 .container-fluid{
 	padding:10px;
 	margin-top: 70px;
+	margin-bottom: 50px;
 }
 
 .hebrew-font{ font-family: "Alef Hebrew";   Arial,
@@ -36,7 +38,7 @@ body{
 .navbar li a{
 	text-transform: uppercase;
 	letter-spacing: 0.07em;
-	font-size: 1.5em;
+	font-size: 1.2em;
 	text-align: center;
 	color: #202428;
 	font-weight: 400;
@@ -82,6 +84,7 @@ body{
 	margin-bottom: 20px;
 	text-align: center;
 }
+
 .section-titles{
 }
 .when-on{
@@ -108,9 +111,9 @@ body{
 	color: white;
 	margin-top: -50px;
 	margin-bottom: 30px;
-	position: absolute;
 	z-index: 200;
-	width: 80%;
+	position: absolute;
+	width: 76%;
 }
 .news-date{
 	background-color: rgba(0,0,0,.6);
@@ -136,20 +139,18 @@ body{
 	font-style: italic;
 	font-size: 18px; 	
 }
-
+.read-more{margin-left: 32%;}
 .read-more a{
 	border: solid 1px #ff6200;
 	color: #ff6200;
-	text-decoration: none;
 	padding-top:7px;
 	padding-bottom: 7px;	
 	padding-left:20px;
 	padding-right: 20px; 
 }
-.read-more{
-	margin: auto;
-	margin-left: 33%;
-	margin-top: 20px;
+.read-more li{
+	display: inline;
+	margin-right: 10px;
 	font-weight: 500;
 	font-size: 14px;
 }
@@ -220,7 +221,10 @@ margin-top: -10px;
 }
 
 #exhibition-name img{
-	width: 50%;
+	background-color: rgba(0,0,0,.7);
+    width: 30%;
+    margin-bottom: -220px;
+    padding:5px;
 	}
 
 #current-date{
@@ -231,7 +235,7 @@ margin-top: -10px;
 
 .see-all a{font-size: 12px;}
 .see-all p{margin-top: 10px;}
-.see-all a img{width: 2%;}
+.see-all a img{width: 3%;}
 .see-all{
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
@@ -261,12 +265,18 @@ margin-top: -10px;
 }
 .about-main img{
 	margin-top:10px;
-	margin-left: -5px;}
+	margin-left: -5px;
+	border:solid 2px #ff6200;
+	padding: 0;
+}
 
 
 .landing-about{margin-top: 80px;
 	margin: auto;
 	max-width: 80%;
+}
+.landing-about img{
+	border:solid 2px #ff6200;
 }
 .past-exhibitions{
 	max-width: 80%;
@@ -284,15 +294,19 @@ margin-top: -10px;
 }
 .news-row{
 	border-top: 1px solid;
-	padding-top: 15px;
-	margin-top: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
-
+.news-row:hover{
+	background-color: #ff6200;
+	color: white;
+	border-top: 1px solid black;
+}
 .news-title{
 	font-size: 24px;
 	font-weight: 500;
-	color: #FF6200;
-}
+/*	color: #FF6200;
+*/}
 
 .news-summary{}
 
@@ -338,11 +352,10 @@ margin-bottom: 0;}
 
 @media screen and (max-width:991px){
 
-#exhibition-name{
-	font-size: 90px;
-	color: white;
-	font-weight: bolder;
+#exhibition-name img{
+	width: 42%;
 	}
+
 #current-date{
 		font-weight: bolder;
 	color: white;
@@ -354,9 +367,11 @@ margin-bottom: 0;}
 @media screen and (max-width:767px){
 .jumbotron{
 	height:300px;} 
+
 #exhibition-name img{
 	width: 100%;
 	}
+	
 #current-date{
 	font-weight: bolder;
 	color: white;
@@ -372,6 +387,7 @@ margin-bottom: 0;}
 	line-height: 1.3em;
 	font-size: 16px;
 }
+
 .navbar li a{
 	margin-left: 30px;
 }
@@ -386,7 +402,7 @@ margin-bottom: 0;}
 }
 
 .navbar li a img{
-	width: 100%;
+	width: 50%;
 }
 .landing-about{
 	max-width: 100%;

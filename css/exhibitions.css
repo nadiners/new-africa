@@ -48,7 +48,9 @@
 		margin:auto;
 }	
 
-.about-exhib{font-size: 24px;
+.about-exhib{
+	color: #ff6200;
+	font-size: 24px;
 	margin-top: 30px;
 	margin-bottom: 20px;
 }
@@ -62,19 +64,22 @@
 	font-family: "skolar-sans-latin",sans-serif;
 	font-style: italic;
 	font-weight: 400;
+	opacity: .8;
 }
 .curator{	
+	margin-top: 30px;
 	font-weight: 500;
-	color: #CE7126;
-	font-size: 28px;}
+	color: #ff6200;
+	font-size: 20px;
+	font-style: italic;
+}
 .curator img{
 	width: 200px;
 	margin-left: 30px;
 	margin-top: 15px;
 }	
 .curator-name{
-margin-left: 30px;
-	font-size: 20px;}
+	font-size: 18px;}
 .meta-info{
-	margin-top: 30px;	
+	text-align: right;	
 }
