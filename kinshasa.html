@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/main-layout.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/exhibitions.css">
-    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon1.png">
     <!-- Latest compiled and minified JavaScript -->
     <script src="js/jquery-3.1.0.min.js"></script>
     <script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
@@ -45,6 +45,9 @@
             <li>
                 <a href="news.html">News</a>
             </li>
+               <li>
+                <a href="catalogues.html">Catalogues</a>
+            </li>
             <li>
                 <a href="about.html">About Us</a>
             </li>
@@ -63,25 +66,50 @@
     </div>
 
     <div class="container-fluid">
+<div class="row">
+    <div class="col-xs-2">
+        <a href="">
+            <img src="images/icons/arrow-back.svg" alt="">
+            <span class="hidden-xs">previous exhibition</span>
+        </a>
+    </div>
+    <div class="col-xs-8 exhib-heading">
+    The Kinshasa Times</div>
+    <div class="col-xs-2">
+        <a class="next-exhib" href="">
+        <span class="hidden-xs">next exhibition</span>
+            <img src="images/icons/arrow.svg" alt="">
+        </a>
+    </div>
+</div><!-- end of row title -->
 
-    <div class="exhib-heading">The Kinshasa Times</div>	
-        <div class="row">
-	    	<div class="image-gallery">	    
-                <div class="visible-gallery">	
-	    		     <img src="images/kinshasa.png" alt="kinshasa">
-                     <div class="col-sm-4 col-sm-offset-8 img-description">
-                         <h1>Title of image</h1>
-                         <h2>size, material</h2>
-                         <p>descriptive text about the image a bit longer than the title but shorted than the text of the page</p>
-                     </div> <!-- end of img description -->
-                </div> <!-- end of visible gallery -->
-	    	</div> <!-- end of image gallery -->
-	    </div> <!-- end of row -->
+<div class="row image-gallery">
+    <div class="visible-gallery">	    
+	<img src="images/doctor.png" alt="kinshasa">
+        <div class="row img-description">
+            <div class="col-xs-4">
+                    <h1 class="pic-title">Traditional Doctor - Treatment of Asthma</h1>
+                    <h1 class="pic-artist">by Herge Makuzayi</h1>
+                    <h2 class="pic-info">113x76cm | oil on canvas | 2002</h2>
+            </div>
+            <div class="col-xs-5">
+                    <p class="pic-blurb">'…Mouyeké himself claims to be descended from great shamans, who can stop the rain from falling control the heat of the sun'   
+                    </p>
+            </div>        
+                <div class="col-xs-3 fullscreen">
+                   <a href="fullscreen.html"> 
+                        <img src="images/icons/fullscreen.svg" alt="" >
+                    </a>
+                </div> 
+            </div><!-- end col-xs-3 -->
+    </div> <!-- end of img description -->
+</div> <!-- end of visible / image gallery -->
+
+
 <div class="exhib-page">
     <div class="col-sm-7">
-
-<p class="text-begin-exhib">This exhibition is of urban art, produced by self-taught artists, mainly from Kinshasa. During the past decade both museums and art markets have shown a growing interest in contemporary African art. 
-</p>
+        <p class="text-begin-exhib">This exhibition is of urban art, produced by self-taught artists, mainly from Kinshasa. During the past decade both museums and art markets have shown a growing interest in contemporary African art. 
+        </p>
     <h1 class="about-exhib">About the exhibition</h1>
 
         <p class="text-about-exhib">
@@ -102,8 +130,8 @@
         Idit Toledano <br>
         Tel Aviv, 2015
 </p>
-
-    </div> <!-- end of col-sm-8 -->
+    </div> <!-- end of col-sm-7 -->
+    
     <div class="col-sm-5 meta-info">
         <ul>            
             <li class="curator">date</li>
@@ -129,22 +157,24 @@
               <li class="curator">additional info</li>
 
             <div class="read-more">
-            <br>    <a href="">share</a>
-            </div>
-          
+            <br>  
+              <a href="">share</a>
+            </div>  
         </ul>
+    </div> <!-- end of col-sm-5 --> 
+    </div><!-- end of exhib page -->
+</div><!-- end of container fluid -->
     
-    </div> <!-- end of col-sm-4 -->
-</div><!-- end of exhib page -->
-    </div><!-- end of container fluid -->
-    <div class="row see-all">
-            <a href="exhibitions.html"> 
-                    <p>back to exhibitions page<img src="images/icons/arrow.svg"></p>                  
-                </a>
-        </div>
-       
+<div class="see-all">
+        <a href="exhibitions.html"> 
+            <p>back to exhibitions page
+               <img src="images/icons/arrow.svg">
+            </p>                  
+        </a>
+    </div>
+
 <footer id="contact">
-        <div class="address">
+        <div class="row address">
             <div class="col-sm-3">
                 <p class="status-footer">address</p>
                 The African Studies Gallery
@@ -166,38 +196,13 @@
             </div>
             <div class="col-sm-3">
                 <a href="#">
-<!-- <img src="images/icons/contact-bird-up.svg" alt="">--> 
-<svg width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
-<path id="inbird" fill="#FFFFFF" d="M87.2,46.8c-0.9-0.3-2.7-0.9-4-2.3l-0.1-0.1L83,44.3c-1.3-3.3-7-2-7.9-1.8c-1.8,1.3-4.8,3.3-6.2,2.8
-    c-0.3-0.2-0.7-0.5-0.7-1.3c0-0.5,0.2-1.1,0.5-1.9c0.3-0.7,0.5-1.3,0.5-1.8c0-2.5-3.9-2.7-3.9-2.7c-0.5,0-46.7-0.2-48.1-0.2
-    c-0.6,0-0.8,0.1-0.8,0.1s-0.1,0.2-0.1,0.9c0.5,0.3,2.5,0.5,3.7,0.6c2.7,0.2,4.8,0.4,4.9,1.7c0.4,0.3,1.9,0.4,2.8,0.5
-    c2.1,0.2,4.1,0.4,4.1,1.8v0.1c0.2,0.1,0.8,0.2,1.2,0.2c0.9,0.1,2.5,0.2,2.5,1.6V45c0.1,0.2,1.4,0.5,2,0.6c1.3,0.2,2.6,0.5,2.8,1.5
-    c0.3,0.1,1.1,0.2,1.6,0.2c1.3,0.1,2.8,0.2,2.8,1.4c0.4,0.3,2,0.6,3.5,0.7l7,0.4l-10.8,1.7l-4.8,2h-0.1c-4.5,1.2-19.2,5.4-20.3,5.4
-    c-0.7,0-3.9,0.1-5.8,0.2l2.2,1.1l-1.1,1.2l3-0.4c2.3-0.2,55-5,58.2-5c2.1,0,6-4.2,8-6.8l0.2-0.3h0.4c2.3,0.1,4.8,0.1,6.4,0
-    c-1.2-0.8-2.8-1.9-3.2-2C87.4,46.9,87.3,46.8,87.2,46.8z"/>
-<g>
-    <path fill="#FF6200" d="M93.2,49.9L93,50.1c-0.3,0.2-0.5,0.5-8.4,0.4c-1.2,1.4-5.8,7-9,7s-57.5,5-58,5l-7.1,0.9l2.6-2.8l-4.7-2.5
-        l3.4-0.5h0.1c0.2,0,6.2-0.3,7.3-0.3c1-0.1,12.7-3.4,19.9-5.4L44,50h0.2c-0.5-0.3-0.8-0.6-0.9-1.1c-0.3-0.1-1-0.2-1.4-0.2
-        c-1.3-0.1-2.7-0.2-2.9-1.4c-0.2-0.1-1.1-0.3-1.6-0.4c-1.5-0.2-3.2-0.6-3.2-2v-0.1c-0.2-0.1-0.8-0.2-1.2-0.2
-        c-0.9-0.1-2.5-0.2-2.5-1.6l0,0c-0.4-0.3-1.9-0.4-2.8-0.5c-2-0.2-4-0.4-4.1-1.7c-0.5-0.3-2.4-0.5-3.6-0.6c-2.9-0.2-5.1-0.4-5.1-1.9
-        c0-2,0.5-2.6,2.4-2.6c1.4,0,47.6,0.2,48.1,0.2c1.8,0.1,5.3,1.1,5.3,4.2c0,0.7-0.2,1.5-0.6,2.4c-0.3,0.7-0.4,1-0.4,1.2
-        c0.7-0.1,2.8-1.2,4.7-2.6l0.1-0.1h0.1c0.3-0.1,7.8-2.1,9.7,2.5c1.1,1,2.6,1.6,3.3,1.8c0.1,0,0.2,0.1,0.3,0.1c0.5,0.2,2,1.2,2.8,1.7
-        c2.5,1.7,2.5,1.9,2.5,2.3V49.9z M68.9,45.3c-0.3-0.2-0.7-0.5-0.7-1.3c0-0.5,0.2-1.1,0.5-1.9c0.3-0.7,0.5-1.3,0.5-1.8
-        c0-2.5-3.9-2.7-3.9-2.7c-0.5,0-46.7-0.2-48.1-0.2c-0.6,0-0.8,0.1-0.8,0.1s-0.1,0.2-0.1,0.9c0.5,0.3,2.5,0.5,3.7,0.6
-        c2.7,0.2,4.8,0.4,4.9,1.7c0.4,0.3,1.9,0.4,2.8,0.5c2.1,0.2,4.1,0.4,4.1,1.8v0.1c0.2,0.1,0.8,0.2,1.2,0.2c0.9,0.1,2.5,0.2,2.5,1.6
-        l0,0V45c0.1,0.2,1.4,0.5,2,0.6c1.3,0.2,2.6,0.5,2.8,1.5c0.3,0.1,1.1,0.2,1.6,0.2c1.3,0.1,2.8,0.2,2.8,1.4c0.4,0.3,2,0.6,3.5,0.7
-        l7,0.4l-10.8,1.7l-4.8,2h-0.1c-4.5,1.2-19.2,5.4-20.3,5.4c-0.7,0-3.9,0.1-5.8,0.2l2.2,1.1l-1.1,1.2l3-0.4c2.3-0.2,55-5,58.2-5
-        c2.1,0,6-4.2,8-6.8l0.2-0.3h0.4c2.3,0.1,4.8,0.1,6.4,0c-1.2-0.8-2.8-1.9-3.2-2c-0.1,0-0.2-0.1-0.3-0.1c-0.9-0.3-2.7-0.9-4-2.3
-        l-0.1-0.1L83,44.3c-1.3-3.3-7-2-7.9-1.8C73.3,43.8,70.3,45.8,68.9,45.3z"/>
-</g>
-</svg>
-
-
+ <img src="images/icons/contact-bird-up.svg" alt=""> 
                </a>
             </div>
-        </div>
+        </div><!-- /address -->
+</footer>
 
-    </footer>    <script>
+    <script>
     var jumboHeight = $('.jumbotron').outerHeight();
 
     function parallax() {

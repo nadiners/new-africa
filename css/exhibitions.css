@@ -33,6 +33,7 @@
 }
 
 .img-description{
+	/*visibility: hidden;*/
 	padding: 8px;
 	margin-top: -86px;
 	background-color: #202428;
@@ -40,7 +41,7 @@
 	opacity: .8; }
 
 .img-description:hover {
-/*more text appears*/
+/*visibility: visible;*/
 	}
 
 .exhib-page{
@@ -55,16 +56,17 @@
 	margin-bottom: 20px;
 }
 .text-about-exhib{
-	font-size: 18px;
-	line-height: 30px;
+	font-size: 16px;
+	line-height: 26px;
 }
 .text-begin-exhib{
 	margin-top: 30px;
-	font-size: 28px;
+	font-size: 22px;
 	font-family: "skolar-sans-latin",sans-serif;
 	font-style: italic;
 	font-weight: 400;
 	opacity: .8;
+	line-height: 1.2em;
 }
 .curator{	
 	margin-top: 30px;
@@ -79,7 +81,49 @@
 	margin-top: 15px;
 }	
 .curator-name{
-	font-size: 18px;}
+	font-size: 16px;}
 .meta-info{
 	text-align: right;	
+}
+.next-exhib{float: right; 
+}
+
+.pic-title{
+	font-weight: 600;
+	color: #ff6200;
+	font-size: 16px;
+	margin-bottom: 5px;}
+.pic-artist{font-size: 16px;
+	margin-bottom: 5px;}
+.pic-info{
+	margin-bottom: 10px;
+	font-size:12px; }
+.pic-blurb{
+	line-height: 1.3em;
+	margin-bottom: 5px;
+	font-size:14px; }
+.fullscreen img{
+	width: 35px;
+	float: right;}
+
+/*///////fullscreen////////*/
+.img-description-full{
+	padding: 8px;
+	background-color: #202428;
+	color: white;
+	opacity: .8; }
+
+/*///////catalogues////////*/
+.catalogue-name{
+	color:  #ff6200;
+	margin-top: 10px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 600;
+}
+.catalogue-date{
+	text-align: center;
+	font-size: 16px;
+margin-bottom: 60px;
+color:  #ff6200;
 }

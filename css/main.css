@@ -46,7 +46,12 @@ body{
 .navbar li a:hover{
 	color: #ff6200;
 }
-
+.onpage {
+	color: #ff6200;
+	text-transform: uppercase;
+    letter-spacing: 0.07em;
+    font-size: 1.2em;
+}
 .navbar li a img{
 	width: 100%;
 }
@@ -56,6 +61,8 @@ body{
 	background-color: rgba(255,254,248,.93);
 /*	background-color: rgba(169, 46, 13, 0.87);
 */}
+
+
 .languages {
 	border-left:1px solid black;
 }
@@ -100,8 +107,6 @@ body{
 }
 .main-box{padding-right: 70px;}
 .event-box{padding-right: 70px;}
-.main-box img{border:solid #ff6200 2px;}
-.event-box img{border:solid #ff6200 2px;}
 .exhi-date{
 	background-color: rgba(0,0,0,.6);
 	padding: 12px;
@@ -141,12 +146,12 @@ body{
 }
 .read-more{margin-left: 32%;}
 .read-more a{
-	border: solid 1px #ff6200;
 	color: #ff6200;
+/*	border: solid 1px #ff6200;
 	padding-top:7px;
 	padding-bottom: 7px;	
 	padding-left:20px;
-	padding-right: 20px; 
+	padding-right: 20px; */
 }
 .read-more li{
 	display: inline;
@@ -160,10 +165,11 @@ body{
 	text-decoration: none;
 	float: right;
 }
+
 .read-more a:hover {
-    border: 1px solid #FF6200;
+  /*  border: 1px solid #FF6200;
     color: white;
-    background-color: #ff6200;
+    background-color: #ff6200;*/
 }
 .share{
 	margin: auto;
@@ -270,14 +276,12 @@ margin-top: -10px;
 	padding: 0;
 }
 
-
+.border img{border:solid 2px #ff6200;}
 .landing-about{margin-top: 80px;
 	margin: auto;
 	max-width: 80%;
 }
-.landing-about img{
-	border:solid 2px #ff6200;
-}
+
 .past-exhibitions{
 	max-width: 80%;
 	margin:auto;
