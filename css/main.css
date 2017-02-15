@@ -107,18 +107,19 @@ body{
 }
 .main-box{padding-right: 70px;}
 .event-box{padding-right: 70px;}
-.exhi-date{
-	background-color: rgba(0,0,0,.6);
-	padding: 12px;
-	text-align: center;
-	font-weight: 400;
-	font-size: 20px; 
-	color: white;
-	margin-top: -50px;
-	margin-bottom: 30px;
-	z-index: 200;
-	position: absolute;
-	width: 76%;
+.exhi-date {
+    background-color: rgba(0,0,0,.6);
+    padding: 12px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    bottom: 2px;
+    left: 2px;
+    z-index: 200;
+    box-sizing: border-box;
+    position: absolute;
+    width: calc(100% - 4px);
 }
 .news-date{
 	background-color: rgba(0,0,0,.6);
@@ -227,7 +228,7 @@ margin-top: -10px;
 }
 
 #exhibition-name img{
-	background-color: rgba(0,0,0,.7);
+	background-color: rgba(255, 98, 0, 0.83);
     width: 30%;
     margin-bottom: -220px;
     padding:5px;
@@ -239,7 +240,7 @@ margin-top: -10px;
 	text-shadow: 2px 2px rgba(0, 0, 0, 0.6);
 }
 
-.see-all a{font-size: 12px;}
+.see-all a{font-size: 14px;}
 .see-all p{margin-top: 10px;}
 .see-all a img{width: 3%;}
 .see-all{
@@ -291,6 +292,7 @@ margin-top: -10px;
 }
 
 .border img{border:solid 2px #ff6200;}
+.border {position: relative;}
 .landing-about{margin-top: 80px;
 	margin: auto;
 	max-width: 80%;
