@@ -146,6 +146,7 @@ body{
 	font-size: 18px; 	
 }
 .read-more{margin-left: 32%;}
+.read-more img{width:20px;}
 .read-more a{
 	color: #ff6200;
 /*	border: solid 1px #ff6200;
@@ -242,7 +243,7 @@ margin-top: -10px;
 
 .see-all a{font-size: 14px;}
 .see-all p{margin-top: 10px;}
-.see-all a img{width: 3%;}
+.see-all a img{width: 2%;}
 .see-all{
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
