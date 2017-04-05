@@ -128,3 +128,7 @@
 margin-bottom: 60px;
 color:  #ff6200;
 }
+
+@media screen and (max-width:767px){
+	.exhib-heading{font-size: 30px;	}
+}/* end max-width 767 */
