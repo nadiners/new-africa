@@ -6,12 +6,14 @@
     <link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/main-layout.css">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/flickity.css">
     <link rel="stylesheet" href="css/exhibitions.css">
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon1.png">
     <!-- Latest compiled and minified JavaScript -->
     <script src="js/jquery-3.1.0.min.js"></script>
     <script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
     <script src="https://use.typekit.net/mqu4vxc.js"></script>
+    <script src="js/flickity.pkgd.min.js"></script>
     <script>
     try {
         Typekit.load({
@@ -95,27 +97,29 @@
     </div>
 </div><!-- end of row title -->
 
-<div class="row image-gallery">
-    <div class="visible-gallery">	    
-	<img src="images/dotsdots.jpg" alt="kinshasa">
-        <div class="row img-description">
-            <div class="col-xs-4">
-                    <h1 class="pic-title">Traditional Doctor - Treatment of Asthma</h1>
-                    <h1 class="pic-artist">by Herge Makuzayi</h1>
-                    <h2 class="pic-info">113x76cm | oil on canvas | 2002</h2>
-            </div>
-            <div class="col-xs-5">
-                    <p class="pic-blurb">'…Mouyeké himself claims to be descended from great shamans, who can stop the rain from falling control the heat of the sun'   
-                    </p>
-            </div>        
-                <div class="col-xs-3 fullscreen">
-                   <a href="fullscreen.html"> 
-                        <img src="images/icons/fullscreen.svg" alt="" >
-                    </a>
-                </div> 
-            </div><!-- end col-xs-3 -->
-    </div> <!-- end of img description -->
-</div> <!-- end of visible / image gallery -->
+
+<!-- Flickity HTML init -->
+<div class="carousel js-flickity">
+
+  <div class="carousel-cell">
+    <img src="images/doctor.png" alt="submerged" />
+  </div>
+  <div class="carousel-cell">
+    <img src="images/chairstoo.jpg" />
+  </div>
+  <div class="carousel-cell">
+    <img src="images/dotsdots.jpg" alt="drizzle" />
+  </div>
+  <div class="carousel-cell">
+    <img src="images/birdtexture.jpg" />
+  </div>
+  <div class="carousel-cell">
+    <img src="images/chairs.jpg" />
+  </div>
+
+</div>
+
+
 
 
 <div class="exhib-page">
@@ -164,7 +168,9 @@
 
             <li class="curator">
             <p>catalogue</p>
+            <a class="catalogue" href="catalogues.html" >
                 <img src="images/kinshasa-catalogue.png" alt="kinshasa-catalogue">
+                </a>
             </li>
             
               <li class="curator">
