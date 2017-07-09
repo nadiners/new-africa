@@ -87,7 +87,14 @@
 	text-align: right;	
 }
 .next-exhib{float: right; 
+
 }
+.next-exhib-left{
+float: left; }
+.next-exhib-left img{width:35px;
+position: fixed;}
+.next-exhib img{width: 35px;
+position: fixed;}
 
 .pic-title{
 	font-weight: 600;
@@ -103,6 +110,7 @@
 	line-height: 1.3em;
 	margin-bottom: 5px;
 	font-size:14px; }
+.pic-readmore a{color: #ff6200;}
 .fullscreen img{
 	width: 35px;
 	float: right;}
@@ -130,5 +138,12 @@ color:  #ff6200;
 }
 
 @media screen and (max-width:767px){
-	.exhib-heading{font-size: 30px;	}
+	.exhib-heading{font-size: 30px;	
+		margin-left:15%;
+		margin-top: 10px;}
+	.img-description{
+	margin-top: 0px;
+	 }
+	 .next-exhib-left{display: none;}
+	 .next-exhib{display: none;}
 }/* end max-width 767 */

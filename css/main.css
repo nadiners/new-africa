@@ -502,7 +502,8 @@ background-color: transparent;}
 @media screen and (max-width:767px){
 .jumbotron{
     height:300px;} 
-.logo a img{margin-left: 5px;}
+.logo a img{margin-left: 5px;
+width: 70px;}
 .mobile-menu{
     width: 80px;
     float: right;
